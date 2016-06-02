@@ -1,0 +1,97 @@
+{
+  "QuestID": 28400,
+  "Version": 2,
+  "FactionGroup": 1,
+  "CreatedOn": "2015-05-30T11:15:57.6090231Z",
+  "UpdatedOn": "2015-05-30T11:16:00.7392891Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "RecommendedLevel": 23,
+  "Frequency": 1,
+  "StartEvent": true,
+  "QuestStart": {
+    "ObjectName": "Kingslayer Orkus",
+    "EntryId": 48503,
+    "AdditionalEntryIds": null,
+    "ContinentId": 0,
+    "ZoneId": 267,
+    "Position": "-1242.494 494.6684 10.46376",
+    "TurnInType": 0,
+    "IsIndoors": true,
+    "MyFaction": 0
+  },
+  "QuestEnd": {
+    "ObjectName": "High Warlord Cromush",
+    "EntryId": 48545,
+    "AdditionalEntryIds": null,
+    "ContinentId": 0,
+    "ZoneId": 267,
+    "Position": "-17.71528 -925.5504 54.79197",
+    "TurnInType": 0,
+    "MyFaction": 1
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "MoveToTemplate",
+      "Hotspots": [
+        {
+          "Position": "-1350.766 522.8588 93.71236",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 0
+        }
+      ],
+      "PreventMounting": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    },
+    {
+      "$type": "WaitTemplate",
+      "TimeSeconds": 60.0,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    },
+    {
+      "$type": "GossipInteractionTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "-1350.19 520.0259 93.81615",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 0
+          },
+          "Name": "Kingslayer Orkus",
+          "EntryId": 48503
+        }
+      ],
+      "HotspotsX": [],
+      "GossipIndex": 1,
+      "Dismount": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    },
+    {
+      "$type": "LootAndEquipTemplate",
+      "ItemsToEquip": [
+        {
+          "Name": "Alliance Battle Plans",
+          "EntryId": 64307
+        }
+      ],
+      "TargetObjects": [
+        {
+          "Name": "(User added by ID)",
+          "EntryId": 48515
+        }
+      ],
+      "HotspotsX": [],
+      "Blackspots": [],
+      "IsLoot": true,
+      "OpeningCast": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "QuestID": 28325,
+  "Version": 2,
+  "FactionGroup": 1,
+  "CreatedOn": "2015-05-30T10:23:56.1574954Z",
+  "UpdatedOn": "2015-05-30T10:23:58.0887187Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "RecommendedLevel": 22,
+  "Frequency": 1,
+  "QuestStart": {
+    "ObjectName": "Serge Hinott",
+    "EntryId": 2391,
+    "AdditionalEntryIds": null,
+    "ContinentId": 0,
+    "ZoneId": 267,
+    "Position": "-669.767 -537.396 28.22719",
+    "TurnInType": 0,
+    "MyFaction": 1
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "CollectObjectsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "-754.589 -541.533 17.935",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 0
+          },
+          "Name": "Used Blight Canister",
+          "EntryId": 207089
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "-754.5726 -540.4148 18.48759",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "IsGroundPosition": false,
+          "ContinentId": 0
+        }
+      ],
+      "Blackspots": [],
+      "IsLoot": true,
+      "OpeningCast": false,
+      "NoMovement": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    }
+  ]
+}

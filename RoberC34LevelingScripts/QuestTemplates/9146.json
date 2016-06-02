@@ -1,0 +1,32 @@
+{
+  "QuestID": 9146,
+  "Version": 2,
+  "FactionGroup": 1,
+  "CreatedOn": "2015-05-25T19:51:53.2676418Z",
+  "UpdatedOn": "2015-05-25T19:51:59.528364Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "QuestStart": {
+    "ObjectName": "Ranger Valanna",
+    "EntryId": 16219,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3433,
+    "Position": "7932.616 -7573.55 145.4186",
+    "TurnInType": 0,
+    "IsIndoors": true,
+    "MyFaction": 0
+  },
+  "QuestEnd": {
+    "ObjectName": "Captain Helios",
+    "EntryId": 16220,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3433,
+    "Position": "7614.603 -7671.459 153.9968",
+    "TurnInType": 0,
+    "MyFaction": 1
+  },
+  "ActionOrder": 1,
+  "Actions": []
+}

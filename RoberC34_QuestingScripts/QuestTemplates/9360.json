@@ -1,0 +1,36 @@
+{
+  "QuestID": 9360,
+  "Version": 1,
+  "FactionGroup": 1,
+  "UpdatedOn": "2015-05-23T23:27:32.3397816Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "RecommendedLevel": 11,
+  "Frequency": 1,
+  "QuestStart": {
+    "ObjectName": "Lieutenant Dawnrunner",
+    "EntryId": 15399,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3430,
+    "Position": "8980.838 -7458.359 86.68934",
+    "TurnInType": 0,
+    "MyFaction": 1
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "MoveToTemplate",
+      "Hotspots": [
+        {
+          "Position": "8982.421 -7455.371 86.68364",
+          "GroundPosition": "0 0 0",
+          "ContinentId": 530
+        }
+      ],
+      "PreventMounting": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    }
+  ]
+}

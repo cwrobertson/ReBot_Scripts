@@ -1,0 +1,234 @@
+{
+  "QuestID": 8334,
+  "Version": 2,
+  "FactionGroup": 0,
+  "CreatedOn": "2014-06-13T21:27:24.2214087Z",
+  "UpdatedOn": "2015-05-29T08:00:06.5150724Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "RecommendedLevel": 4,
+  "Frequency": 1,
+  "QuestStart": {
+    "ObjectName": "Lanthan Perilon",
+    "EntryId": 15281,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 6455,
+    "Position": "10302.25 -6229.303 26.62207",
+    "TurnInType": 0,
+    "MyFaction": 0
+  },
+  "QuestEnd": {
+    "ObjectName": "Lanthan Perilon",
+    "EntryId": 15281,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 6455,
+    "Position": "10302.25 -6229.303 26.62207",
+    "TurnInType": 0,
+    "MyFaction": 0
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Name": "Tender",
+          "EntryId": 15271
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "10247.28 -6142.075 19.67165",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "10194.68 -6165.81 20.01282",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "10157.3 -6204.912 19.35992",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "10100.54 -6264.525 13.53568",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "10075.03 -6232.173 13.37743",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "10088.9 -6193.853 15.58577",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "10131.97 -6156.46 16.42935",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "10169.58 -6137.502 18.69267",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "10243.4 -6083.672 23.48321",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "10256.71 -6037.749 24.63875",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "10301.32 -5999.057 33.70641",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "10351.55 -6002.187 35.2009",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "10376.32 -6038.576 28.30725",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "10322.75 -6105.993 22.1619",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    },
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Name": "Feral Tender",
+          "EntryId": 15294
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "10322.75 -6105.993 22.1619",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "10376.32 -6038.576 28.30725",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "10351.55 -6002.187 35.2009",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "10301.32 -5999.057 33.70641",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "10256.71 -6037.749 24.63875",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "10243.4 -6083.672 23.48321",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "10169.58 -6137.502 18.69267",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "10131.97 -6156.46 16.42935",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "10088.9 -6193.853 15.58577",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "10075.03 -6232.173 13.37743",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "10100.54 -6264.525 13.53568",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "10157.3 -6204.912 19.35992",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "10194.68 -6165.81 20.01282",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "10247.28 -6142.075 19.67165",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 2,
+      "RunTime": 5.0
+    }
+  ]
+}

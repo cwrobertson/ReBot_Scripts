@@ -1,0 +1,92 @@
+{
+  "QuestID": 9140,
+  "Version": 6,
+  "FactionGroup": 1,
+  "CreatedOn": "2015-05-25T08:56:09.1799041Z",
+  "UpdatedOn": "2015-05-30T00:22:11.8040575Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "RecommendedLevel": 14,
+  "Frequency": 1,
+  "QuestStart": {
+    "ObjectName": "Arcanist Vandril",
+    "EntryId": 16197,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3433,
+    "Position": "7643.323 -6806.614 78.95842",
+    "TurnInType": 0,
+    "IsIndoors": true,
+    "MyFaction": 0
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "7291.395 -5989.188 18.64311",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 530
+          },
+          "Name": "Stonewing Slayer",
+          "EntryId": 16324
+        },
+        {
+          "Hotspot": {
+            "Position": "7317.929 -5821.251 12.94964",
+            "GroundPosition": "0 0 0",
+            "ContinentId": 530
+          },
+          "Name": "Phantasmal Seeker",
+          "EntryId": 16323
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "7289.087 -5987.624 19.09611",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": true,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    },
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "7213.82 -5975.827 20.03874",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 530
+          },
+          "Name": "Phantasmal Seeker",
+          "EntryId": 16323
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "7289.087 -5987.624 19.09611",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": true,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 2,
+      "RunTime": 5.0
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "QuestID": 28199,
+  "Version": 1,
+  "FactionGroup": 1,
+  "UpdatedOn": "2015-05-30T09:17:57.6509869Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "RecommendedLevel": 21,
+  "Frequency": 1,
+  "QuestStart": {
+    "ObjectName": "Flesh-Shaper Arnauld",
+    "EntryId": 47899,
+    "AdditionalEntryIds": null,
+    "ContinentId": 0,
+    "ZoneId": 267,
+    "Position": "-471.479 82.8229 56.93059",
+    "TurnInType": 0,
+    "MyFaction": 1
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "-588.923 37.69983 48.28794",
+            "GroundPosition": "0 0 0",
+            "ContinentId": 0
+          },
+          "Name": "Risen Hillsbrad Peasant",
+          "EntryId": 47861
+        },
+        {
+          "Hotspot": {
+            "Position": "-558.8776 -50.67763 46.31537",
+            "GroundPosition": "0 0 0",
+            "ContinentId": 0
+          },
+          "Name": "Risen Hillsbrad Farmer",
+          "EntryId": 47859
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "-556.8738 27.98788 48.08873",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "ContinentId": 0
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    }
+  ]
+}

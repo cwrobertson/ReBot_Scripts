@@ -1,0 +1,64 @@
+{
+  "QuestID": 28495,
+  "Version": 2,
+  "FactionGroup": 1,
+  "CreatedOn": "2015-05-30T16:07:00.9911237Z",
+  "UpdatedOn": "2015-05-30T16:07:22.3456562Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "RecommendedLevel": 23,
+  "Frequency": 1,
+  "QuestStart": {
+    "ObjectName": "Advisor Duskingdawn",
+    "EntryId": 17092,
+    "AdditionalEntryIds": null,
+    "ContinentId": 0,
+    "ZoneId": 267,
+    "Position": "-57.658 -908.939 56.20936",
+    "TurnInType": 0,
+    "MyFaction": 0
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "UseItemTemplate",
+      "UseMethod": 0,
+      "OverrideCooldown": 0.0,
+      "OverrideCastTime": 0.0,
+      "StayMounted": false,
+      "MinCastRange": 4.5,
+      "DontFilterDeadUnits": false,
+      "UseCount": 1,
+      "TargetUnits": [
+        {
+          "Hotspot": {
+            "Position": "-267.5569 -587.5825 59.37925",
+            "GroundPosition": "0 0 0",
+            "ContinentId": 0
+          },
+          "Name": "Hill Fawn",
+          "EntryId": 48187
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "-295.92 -629.0148 57.23114",
+          "GroundPosition": "0 0 0",
+          "WaitTime": 500.0,
+          "ContinentId": 0
+        }
+      ],
+      "Blackspots": [],
+      "Item": [
+        {
+          "Name": "Duskingdawn's Wand",
+          "EntryId": 64416
+        }
+      ],
+      "BanTime": 120.0,
+      "BanMobCombatAfterUse": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    }
+  ]
+}

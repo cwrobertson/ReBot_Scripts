@@ -1,0 +1,50 @@
+{
+  "QuestID": 28354,
+  "Version": 1,
+  "FactionGroup": 1,
+  "UpdatedOn": "2015-05-30T10:43:10.4375028Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "QuestStart": {
+    "ObjectName": "Kingslayer Orkus",
+    "EntryId": 48218,
+    "AdditionalEntryIds": null,
+    "ContinentId": 0,
+    "ZoneId": 267,
+    "Position": "-928.592 -582.609 1.472182",
+    "TurnInType": 0,
+    "IsIndoors": true,
+    "MyFaction": 0
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "CollectObjectsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "-919.227 -939.111 30.479",
+            "GroundPosition": "0 0 0",
+            "ContinentId": 0
+          },
+          "Name": "Mudsnout Blossom",
+          "EntryId": 1723
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "-910.1815 -929.0891 32.16323",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "ContinentId": 0
+        }
+      ],
+      "Blackspots": [],
+      "IsLoot": true,
+      "OpeningCast": false,
+      "NoMovement": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    }
+  ]
+}

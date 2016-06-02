@@ -1,0 +1,123 @@
+{
+  "QuestID": 9216,
+  "Version": 5,
+  "FactionGroup": 1,
+  "CreatedOn": "2015-05-25T11:59:34.8186095Z",
+  "UpdatedOn": "2015-05-27T20:18:57.6953574Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "RecommendedLevel": 16,
+  "Frequency": 1,
+  "QuestStart": {
+    "ObjectName": "Magistrix Aminel",
+    "EntryId": 16205,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3433,
+    "Position": "7577.79 -6897.553 111.9151",
+    "TurnInType": 0,
+    "MyFaction": 1
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "6972.101 -6540.064 9.376372",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 530
+          },
+          "Name": "Dreadbone Sentinel",
+          "EntryId": 16305
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "6966.787 -6527.177 10.84434",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "7014.7 -6546.523 10.14732",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "ContinentId": 530
+        },
+        {
+          "Position": "7086.757 -6535.941 9.414486",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    },
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "7018.622 -6520.243 9.95833",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 530
+          },
+          "Name": "Risen Stalker",
+          "EntryId": 16302
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "6966.787 -6527.177 10.84434",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    },
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "7029.146 -6501.33 10.81383",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 530
+          },
+          "Name": "Deathcage Sorcerer",
+          "EntryId": 16308
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "6966.787 -6527.177 10.84434",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    }
+  ]
+}

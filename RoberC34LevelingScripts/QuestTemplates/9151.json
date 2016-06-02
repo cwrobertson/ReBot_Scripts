@@ -1,0 +1,33 @@
+{
+  "QuestID": 9151,
+  "Version": 3,
+  "FactionGroup": 1,
+  "CreatedOn": "2015-05-25T13:03:32.590804Z",
+  "UpdatedOn": "2015-05-27T19:48:52.5757956Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "RecommendedLevel": 20,
+  "Frequency": 1,
+  "QuestStart": {
+    "ObjectName": "Magister Darenis",
+    "EntryId": 16199,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3433,
+    "Position": "7563.706 -6802.08 87.03634",
+    "TurnInType": 0,
+    "MyFaction": 1
+  },
+  "QuestEnd": {
+    "ObjectName": "Magister Idonis",
+    "EntryId": 16204,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3433,
+    "Position": "7198.518 -7093.961 66.45869",
+    "TurnInType": 0,
+    "MyFaction": 1
+  },
+  "ActionOrder": 1,
+  "Actions": []
+}

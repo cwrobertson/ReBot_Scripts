@@ -1,0 +1,51 @@
+{
+  "QuestID": 28484,
+  "Version": 4,
+  "FactionGroup": 1,
+  "CreatedOn": "2015-05-30T15:56:26.0882471Z",
+  "UpdatedOn": "2015-05-30T16:08:25.1482189Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "RecommendedLevel": 23,
+  "Frequency": 1,
+  "QuestStart": {
+    "ObjectName": "Keeper Bel'varil",
+    "EntryId": 2437,
+    "AdditionalEntryIds": null,
+    "ContinentId": 0,
+    "ZoneId": 267,
+    "Position": "-0.979167 -921.25 54.28074",
+    "TurnInType": 0,
+    "MyFaction": 1
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "-281.6328 -424.2325 66.90961",
+            "GroundPosition": "0 0 0",
+            "ContinentId": 0
+          },
+          "Name": "Cave Yeti",
+          "EntryId": 2248
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "-305.8581 -410.6476 65.76044",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "ContinentId": 0
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    }
+  ]
+}

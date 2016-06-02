@@ -1,0 +1,62 @@
+{
+  "QuestID": 9315,
+  "Version": 3,
+  "FactionGroup": 1,
+  "CreatedOn": "2015-05-24T01:19:23.9296626Z",
+  "UpdatedOn": "2015-05-25T18:04:03.258496Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "RecommendedLevel": 11,
+  "Frequency": 1,
+  "QuestStart": {
+    "ObjectName": "Dying Blood Elf",
+    "EntryId": 16601,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3433,
+    "Position": "7938.38 -7182.337 133.6712",
+    "TurnInType": 0,
+    "MyFaction": 1
+  },
+  "QuestEnd": {
+    "ObjectName": "Arcanist Vandril",
+    "EntryId": 16197,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3433,
+    "Position": "7642.862 -6808.725 78.9311",
+    "TurnInType": 0,
+    "MyFaction": 1
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "7901.573 -7301.12 145.7886",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 530
+          },
+          "Name": "Anok'suten",
+          "EntryId": 16357
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "7902.116 -7298.003 145.9228",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    }
+  ]
+}

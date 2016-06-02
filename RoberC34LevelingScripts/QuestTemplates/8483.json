@@ -1,0 +1,132 @@
+{
+  "QuestID": 8483,
+  "Version": 3,
+  "FactionGroup": 1,
+  "CreatedOn": "2015-03-13T17:14:26.4490843Z",
+  "UpdatedOn": "2015-05-24T13:04:56.4678518Z",
+  "Comment": "Added by RoberC34",
+  "CreatedBy": null,
+  "RecommendedLevel": 7,
+  "Frequency": 1,
+  "QuestStart": {
+    "ObjectName": "Aeldon Sunbrand",
+    "EntryId": 15403,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3430,
+    "Position": "9531.329 -6859.755 18.6951",
+    "TurnInType": 0,
+    "MyFaction": 0
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "GossipInteractionTemplate",
+      "TargetObjects": [
+        {
+          "Name": "Prospector Anvilward",
+          "EntryId": 15420
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "9293.751 -6685.549 22.44878",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "GossipIndex": 1,
+      "Dismount": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    },
+    {
+      "$type": "GossipInteractionTemplate",
+      "TargetObjects": [
+        {
+          "Name": "Prospector Anvilward",
+          "EntryId": 15420
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "9293.751 -6685.549 22.44878",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "GossipIndex": 1,
+      "Dismount": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    },
+    {
+      "$type": "MoveToTemplate",
+      "Hotspots": [
+        {
+          "Position": "9296.448 -6676.424 22.37122",
+          "GroundPosition": "0 0 0",
+          "ContinentId": 530
+        },
+        {
+          "Position": "9308.21 -6657.108 22.78895",
+          "GroundPosition": "0 0 0",
+          "ContinentId": 530
+        },
+        {
+          "Position": "9305.921 -6649.234 25.82832",
+          "GroundPosition": "0 0 0",
+          "ContinentId": 530
+        },
+        {
+          "Position": "9296.562 -6647.818 29.29799",
+          "GroundPosition": "0 0 0",
+          "ContinentId": 530
+        },
+        {
+          "Position": "9289.429 -6652.37 31.76946",
+          "GroundPosition": "0 0 0",
+          "ContinentId": 530
+        },
+        {
+          "Position": "9287.928 -6656.725 31.83266",
+          "GroundPosition": "0 0 0",
+          "ContinentId": 530
+        }
+      ],
+      "PreventMounting": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    },
+    {
+      "$type": "WaitTemplate",
+      "TimeSeconds": 20.0,
+      "GameObjectiveIndex": 1,
+      "RunTime": -1.0
+    },
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Name": "Prospector Anvilward",
+          "EntryId": 15420
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "9291.27 -6655.746 31.82693",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": true,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    }
+  ]
+}

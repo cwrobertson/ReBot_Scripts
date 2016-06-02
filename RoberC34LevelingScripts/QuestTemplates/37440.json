@@ -1,0 +1,64 @@
+{
+  "QuestID": 37440,
+  "Version": 2,
+  "FactionGroup": 1,
+  "CreatedOn": "2015-03-13T17:14:26.1500843Z",
+  "UpdatedOn": "2015-05-22T19:04:36.0520156Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "RecommendedLevel": 4,
+  "Frequency": 1,
+  "QuestStart": {
+    "ObjectName": "Arcanist Ithanas",
+    "EntryId": 15296,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 6455,
+    "Position": "10413.7 -6372.463 35.64339",
+    "TurnInType": 0,
+    "MyFaction": 1
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "10383.16 -6280.218 25.77379",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 530
+          },
+          "Name": "Mana Wyrm",
+          "EntryId": 15274
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "10380.18 -6276.431 26.26521",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "10403.42 -6201.352 32.18937",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "10370.15 -6164.563 31.57535",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    }
+  ]
+}

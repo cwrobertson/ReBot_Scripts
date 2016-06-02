@@ -1,0 +1,80 @@
+{
+  "QuestID": 28197,
+  "Version": 2,
+  "FactionGroup": 1,
+  "CreatedOn": "2015-05-30T09:18:55.360237Z",
+  "UpdatedOn": "2015-05-30T09:21:43.4326942Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "RecommendedLevel": 21,
+  "Frequency": 1,
+  "QuestStart": {
+    "ObjectName": "Warden Stillwater",
+    "EntryId": 47781,
+    "AdditionalEntryIds": null,
+    "ContinentId": 0,
+    "ZoneId": 267,
+    "Position": "-500.719 90.8021 56.31517",
+    "TurnInType": 0,
+    "MyFaction": 1
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "-545.6083 -26.34362 45.71922",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 0
+          },
+          "Name": "Clerk Horrace Whitesteed",
+          "EntryId": 47789
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "-552.2443 23.20669 48.00534",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "IsGroundPosition": false,
+          "ContinentId": 0
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    },
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "-617.774 -46.0278 60.31136",
+            "GroundPosition": "0 0 0",
+            "ContinentId": 0
+          },
+          "Name": "Citizen Wilkes",
+          "EntryId": 47791
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "-555.2133 24.88229 48.05343",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "ContinentId": 0
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    }
+  ]
+}

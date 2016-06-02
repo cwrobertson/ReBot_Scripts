@@ -1,0 +1,48 @@
+{
+  "QuestID": 28230,
+  "Version": 1,
+  "FactionGroup": 1,
+  "UpdatedOn": "2015-05-30T09:47:49.1018624Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "QuestStart": {
+    "ObjectName": "Master Apothecary Lydon",
+    "EntryId": 48020,
+    "AdditionalEntryIds": null,
+    "ContinentId": 0,
+    "ZoneId": 267,
+    "Position": "-441.175 -109.9154 54.57176",
+    "TurnInType": 0,
+    "MyFaction": 0
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "-379.906 -40.6267 49.1186",
+            "GroundPosition": "0 0 0",
+            "ContinentId": 0
+          },
+          "Name": "The Ray-Getz-Kalaba Monstrosity",
+          "EntryId": 47793
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "-413.3428 -31.98456 53.25559",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "ContinentId": 0
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    }
+  ]
+}

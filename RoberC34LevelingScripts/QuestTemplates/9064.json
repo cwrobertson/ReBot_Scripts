@@ -1,0 +1,31 @@
+{
+  "QuestID": 9064,
+  "Version": 1,
+  "FactionGroup": 0,
+  "CreatedOn": "2015-03-13T17:14:26.6860843Z",
+  "UpdatedOn": "2015-05-23T19:11:02.601548Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "QuestStart": {
+    "ObjectName": "Velan Brightoak",
+    "EntryId": 15417,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3430,
+    "Position": "8755.612 -6690.053 69.60271",
+    "TurnInType": 0,
+    "MyFaction": 0
+  },
+  "QuestEnd": {
+    "ObjectName": "Instructor Antheol",
+    "EntryId": 15970,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3430,
+    "Position": "9251.979 -7230.74 16.39146",
+    "TurnInType": 0,
+    "MyFaction": 0
+  },
+  "ActionOrder": 1,
+  "Actions": []
+}

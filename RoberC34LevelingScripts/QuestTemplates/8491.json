@@ -1,0 +1,80 @@
+{
+  "QuestID": 8491,
+  "Version": 1,
+  "FactionGroup": 0,
+  "CreatedOn": "2015-03-13T17:14:26.4540843Z",
+  "UpdatedOn": "2015-05-23T20:58:34.2835632Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "QuestStart": {
+    "ObjectName": "Velan Brightoak",
+    "EntryId": 15417,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3430,
+    "Position": "8755.612 -6690.053 69.60435",
+    "TurnInType": 0,
+    "MyFaction": 0
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Name": "Springpaw Stalker",
+          "EntryId": 15651
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "8834.104 -6698.058 45.98688",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "8814.658 -6765.867 44.9243",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "8854.604 -6801.211 38.76215",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "8885.211 -6750.663 33.56596",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "8904.849 -6663.264 37.19708",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "8893.767 -6602.193 33.42789",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "8865.55 -6558.903 39.55251",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    }
+  ]
+}

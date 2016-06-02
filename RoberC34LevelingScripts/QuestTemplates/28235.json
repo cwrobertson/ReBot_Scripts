@@ -1,0 +1,59 @@
+{
+  "QuestID": 28235,
+  "Version": 3,
+  "FactionGroup": 1,
+  "CreatedOn": "2015-05-30T09:49:37.5520167Z",
+  "UpdatedOn": "2015-05-30T09:50:23.4316126Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "RecommendedLevel": 21,
+  "Frequency": 1,
+  "QuestStart": {
+    "ObjectName": "Master Apothecary Lydon",
+    "EntryId": 48020,
+    "AdditionalEntryIds": null,
+    "ContinentId": 0,
+    "ZoneId": 267,
+    "Position": "-398.4288 67.90598 54.8173",
+    "TurnInType": 0,
+    "MyFaction": 1
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "WaitTemplate",
+      "TimeSeconds": 10.0,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    },
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "-400.214 73.4757 62.85493",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 0
+          },
+          "Name": "Magistrate Burnside",
+          "EntryId": 47790
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "-386.5977 44.51372 54.32575",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "IsGroundPosition": false,
+          "ContinentId": 0
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    }
+  ]
+}

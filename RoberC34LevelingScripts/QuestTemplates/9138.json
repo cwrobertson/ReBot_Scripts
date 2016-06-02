@@ -1,0 +1,78 @@
+{
+  "QuestID": 9138,
+  "Version": 4,
+  "FactionGroup": 1,
+  "CreatedOn": "2015-05-25T01:12:31.8281451Z",
+  "UpdatedOn": "2015-05-25T18:02:35.8077647Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "RecommendedLevel": 10,
+  "Frequency": 1,
+  "QuestStart": {
+    "ObjectName": "Arcanist Vandril",
+    "EntryId": 16197,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3433,
+    "Position": "7642.416 -6815.333 78.98608",
+    "TurnInType": 0,
+    "IsIndoors": true,
+    "MyFaction": 0
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "7918.237 -7221.745 132.1344",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 530
+          },
+          "Name": "Nerubis Guard",
+          "EntryId": 16313
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "7910.977 -7177.739 131.6819",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 100.0,
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "7934.656 -7231.775 135.5276",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "7950.655 -7301.831 139.1575",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "8003.365 -7341.351 141.1243",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "8050.302 -7328.06 141.0105",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    }
+  ]
+}

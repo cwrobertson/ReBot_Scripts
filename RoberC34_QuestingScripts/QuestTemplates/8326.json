@@ -1,0 +1,73 @@
+{
+  "QuestID": 8326,
+  "Version": 2,
+  "FactionGroup": 0,
+  "CreatedOn": "2014-06-07T06:51:30.2442763Z",
+  "UpdatedOn": "2015-05-22T18:57:33.3278372Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "RecommendedLevel": 3,
+  "QuestStart": {
+    "ObjectName": "Magistrix Erona",
+    "EntryId": 15278,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 0,
+    "Position": "10351.96 -6359.932 34.03349",
+    "TurnInType": 0,
+    "MyFaction": 0
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Name": "Bachtatzenjunges",
+          "EntryId": 15366
+        },
+        {
+          "Name": "Bachtatzenluchs",
+          "EntryId": 15372
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "10310.92 -6408.842 36.70406",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "10360.32 -6465.055 36.86203",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "10418.71 -6437.828 40.97171",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "10455.84 -6327.259 42.70668",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "10399.03 -6303.247 33.97993",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": true,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    }
+  ]
+}

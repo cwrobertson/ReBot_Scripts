@@ -1,0 +1,108 @@
+{
+  "QuestID": 9192,
+  "Version": 6,
+  "FactionGroup": 1,
+  "CreatedOn": "2015-05-25T10:37:17.3596589Z",
+  "UpdatedOn": "2015-05-28T07:15:47.6799223Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "RecommendedLevel": 14,
+  "Frequency": 1,
+  "QuestStart": {
+    "ObjectName": "Deathstalker Maltendis",
+    "EntryId": 16251,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3433,
+    "Position": "7556.458 -6759.945 91.2243",
+    "TurnInType": 0,
+    "MyFaction": 0
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "7314.083 -6272.123 50.79078",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 530
+          },
+          "Name": "Blackpaw Scavenger",
+          "EntryId": 16335
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "7196.059 -6182.574 18.64282",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    },
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "7196.909 -6176.675 16.81035",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 530
+          },
+          "Name": "Blackpaw Gnoll",
+          "EntryId": 16334
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "7196.059 -6182.574 18.64282",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 2,
+      "RunTime": 5.0
+    },
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "7152.384 -6238.306 22.30574",
+            "GroundPosition": "0 0 0",
+            "ContinentId": 530
+          },
+          "Name": "Blackpaw Shaman",
+          "EntryId": 16337
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "7195.323 -6186.665 19.65689",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "QuestID": 9352,
+  "Version": 1,
+  "FactionGroup": 0,
+  "CreatedOn": "2015-03-13T17:14:26.9740843Z",
+  "UpdatedOn": "2015-05-26T18:58:18.6067446Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "RecommendedLevel": 6,
+  "Frequency": 1,
+  "QuestStart": {
+    "ObjectName": "Ley-Keeper Velania",
+    "EntryId": 15401,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3430,
+    "Position": "9155.777 -6294.84 21.04688",
+    "TurnInType": 0,
+    "MyFaction": 0
+  },
+  "QuestEnd": {
+    "ObjectName": "Ley-Keeper Velania",
+    "EntryId": 15401,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3430,
+    "Position": "9155.777 -6294.84 21.04688",
+    "TurnInType": 0,
+    "MyFaction": 0
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Name": "Darnassian Scout",
+          "EntryId": 15968
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "9099.591 -6193.847 18.6661",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    }
+  ]
+}

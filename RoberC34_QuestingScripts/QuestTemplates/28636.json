@@ -1,0 +1,63 @@
+{
+  "QuestID": 28636,
+  "Version": 3,
+  "FactionGroup": 1,
+  "CreatedOn": "2015-05-30T17:40:17.700135Z",
+  "UpdatedOn": "2015-05-30T17:43:49.845189Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "RecommendedLevel": 25,
+  "Frequency": 1,
+  "QuestStart": {
+    "ObjectName": "Captain Ironhill's Ghost",
+    "EntryId": 49240,
+    "AdditionalEntryIds": null,
+    "ContinentId": 0,
+    "ZoneId": 267,
+    "Position": "-1255.185 -1162.387 40.56523",
+    "TurnInType": 0,
+    "MyFaction": 1
+  },
+  "QuestEnd": {
+    "ObjectName": "Captain Jekyll",
+    "EntryId": 49243,
+    "AdditionalEntryIds": null,
+    "ContinentId": 0,
+    "ZoneId": 267,
+    "Position": "-572.5923 -1070.751 61.15853",
+    "TurnInType": 0,
+    "MyFaction": 1
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "-1269.266 -1195.654 40.17665",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 0
+          },
+          "Name": "Dun Garok Spirit",
+          "EntryId": 49269
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "-1250.407 -1166.365 40.58559",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "IsGroundPosition": false,
+          "ContinentId": 0
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    }
+  ]
+}

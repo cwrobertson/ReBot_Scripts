@@ -1,0 +1,59 @@
+{
+  "QuestID": 9062,
+  "Version": 1,
+  "FactionGroup": 0,
+  "CreatedOn": "2015-03-13T17:14:26.6840843Z",
+  "UpdatedOn": "2015-05-23T19:09:56.1127451Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "QuestStart": {
+    "ObjectName": "Apprentice Meledor",
+    "EntryId": 15945,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3430,
+    "Position": "9037.787 -6697.619 12.56227",
+    "TurnInType": 0,
+    "MyFaction": 0
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "MoveToTemplate",
+      "Hotspots": [
+        {
+          "Position": "9028.877 -6694.108 8.011794",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "PreventMounting": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    },
+    {
+      "$type": "CollectObjectsTemplate",
+      "TargetObjects": [
+        {
+          "Name": "Soaked Tome",
+          "EntryId": 181110
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "9010.821 -6678.55 7.724191",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "IsLoot": true,
+      "OpeningCast": true,
+      "NoMovement": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    }
+  ]
+}

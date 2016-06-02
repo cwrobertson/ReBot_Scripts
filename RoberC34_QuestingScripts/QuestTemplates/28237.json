@@ -1,0 +1,61 @@
+{
+  "QuestID": 28237,
+  "Version": 3,
+  "FactionGroup": 1,
+  "CreatedOn": "2015-05-30T09:53:18.6290954Z",
+  "UpdatedOn": "2015-05-30T09:53:57.0986708Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "RecommendedLevel": 21,
+  "Frequency": 1,
+  "QuestStart": {
+    "ObjectName": "Master Apothecary Lydon",
+    "EntryId": 47900,
+    "AdditionalEntryIds": [
+      48020
+    ],
+    "ContinentId": 0,
+    "ZoneId": 267,
+    "Position": "-502.613 68.1059 54.14879",
+    "TurnInType": 0,
+    "MyFaction": 1
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "-501.538 78.9983 55.59027",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 0
+          },
+          "Name": "Warden Stillwater",
+          "EntryId": 48080
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "-501.1419 75.61407 55.14175",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "IsGroundPosition": false,
+          "ContinentId": 0
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    },
+    {
+      "$type": "WaitTemplate",
+      "TimeSeconds": 60.0,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    }
+  ]
+}

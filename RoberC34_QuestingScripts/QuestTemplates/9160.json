@@ -1,0 +1,50 @@
+{
+  "QuestID": 9160,
+  "Version": 2,
+  "FactionGroup": 1,
+  "CreatedOn": "2015-05-25T20:14:55.8047885Z",
+  "UpdatedOn": "2015-05-25T20:14:56.8962004Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "QuestStart": {
+    "ObjectName": "Dame Auriferous",
+    "EntryId": 16231,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3433,
+    "Position": "7551.524 -6764.349 91.25445",
+    "TurnInType": 0,
+    "MyFaction": 0
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "7966.691 -6482.308 51.8327",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 530
+          },
+          "Name": "Sentinel Spy",
+          "EntryId": 16330
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "7937.183 -6490.998 47.97047",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "QuestID": 9170,
+  "Version": 1,
+  "FactionGroup": 1,
+  "UpdatedOn": "2015-05-27T21:29:51.873061Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "RecommendedLevel": 20,
+  "Frequency": 1,
+  "QuestStart": {
+    "ObjectName": "Magister Idonis",
+    "EntryId": 16204,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3433,
+    "Position": "7198.518 -7093.961 66.45933",
+    "TurnInType": 0,
+    "MyFaction": 1
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "6521.346 -6516.057 43.76208",
+            "GroundPosition": "0 0 0",
+            "ContinentId": 530
+          },
+          "Name": "Mirdoran the Fallen",
+          "EntryId": 16250
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "6509.996 -6498.884 43.76209",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 50.0,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    },
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "6628.647 -6342.48 10.085",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "IsIndoors": true,
+            "ContinentId": 530
+          },
+          "Name": "Jurion the Deceiver",
+          "EntryId": 16248
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "6647.111 -6344.183 9.136962",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 50.0,
+          "IsGroundPosition": false,
+          "IsIndoors": true,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 2,
+      "RunTime": 5.0
+    },
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "6439.937 -6645.594 107.4335",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "IsIndoors": true,
+            "ContinentId": 530
+          },
+          "Name": "Borgoth the Bloodletter",
+          "EntryId": 16247
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "6436.398 -6620.446 107.4384",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 50.0,
+          "IsGroundPosition": false,
+          "IsIndoors": true,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 3,
+      "RunTime": 5.0
+    },
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "6304.856 -6255.691 77.81367",
+            "GroundPosition": "0 0 0",
+            "IsIndoors": true,
+            "ContinentId": 530
+          },
+          "Name": "Masophet the Black",
+          "EntryId": 16249
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "6306.25 -6256.801 77.81366",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 50.0,
+          "IsIndoors": true,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 4,
+      "RunTime": 5.0
+    }
+  ]
+}

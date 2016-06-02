@@ -1,0 +1,48 @@
+{
+  "QuestID": 9144,
+  "Version": 2,
+  "FactionGroup": 1,
+  "CreatedOn": "2015-05-24T00:54:20.1756527Z",
+  "UpdatedOn": "2015-05-24T00:54:24.32389Z",
+  "Comment": "Added by RoberC34",
+  "CreatedBy": null,
+  "RecommendedLevel": 10,
+  "Frequency": 1,
+  "QuestStart": {
+    "ObjectName": "Magistrix Landra Dawnstrider",
+    "EntryId": 16210,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3430,
+    "Position": "8718.337 -6655.903 72.7548",
+    "TurnInType": 0,
+    "MyFaction": 1
+  },
+  "QuestEnd": {
+    "ObjectName": "Courier Dawnstrider",
+    "EntryId": 16183,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3430,
+    "Position": "8119.714 -6899.624 70.76069",
+    "TurnInType": 0,
+    "MyFaction": 1
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "MoveToTemplate",
+      "Hotspots": [
+        {
+          "Position": "8120.971 -6899.397 70.93386",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "PreventMounting": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    }
+  ]
+}

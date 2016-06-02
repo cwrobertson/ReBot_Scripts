@@ -1,0 +1,50 @@
+{
+  "QuestID": 8480,
+  "Version": 1,
+  "FactionGroup": 1,
+  "UpdatedOn": "2015-05-25T15:32:31.2104137Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "QuestStart": {
+    "ObjectName": "Velendris Whitemorn",
+    "EntryId": 15404,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3430,
+    "Position": "8849.254 -6278.24 7.938927",
+    "TurnInType": 0,
+    "MyFaction": 1
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "CollectObjectsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "8748.732 -6081.948 20.13474",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 530
+          },
+          "Name": "Weapon Container",
+          "EntryId": 181107
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "8781.783 -6064.829 4.740466",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "IsLoot": true,
+      "OpeningCast": false,
+      "NoMovement": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    }
+  ]
+}

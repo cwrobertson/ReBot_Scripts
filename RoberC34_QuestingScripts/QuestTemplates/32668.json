@@ -1,0 +1,33 @@
+{
+  "QuestID": 32668,
+  "Version": 1,
+  "FactionGroup": 1,
+  "UpdatedOn": "2015-05-27T21:59:11.9839264Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "RecommendedLevel": 20,
+  "Frequency": 1,
+  "QuestStart": {
+    "ObjectName": "WatchFramePopup",
+    "EntryId": 0,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3430,
+    "Position": "0 0 0",
+    "TurnInType": 4,
+    "MyFaction": 1
+  },
+  "QuestEnd": {
+    "ObjectName": "Perascamin",
+    "EntryId": 16280,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3430,
+    "Position": "9269.227 -7510.486 37.82963",
+    "TurnInType": 0,
+    "IsIndoors": true,
+    "MyFaction": 1
+  },
+  "ActionOrder": 1,
+  "Actions": []
+}

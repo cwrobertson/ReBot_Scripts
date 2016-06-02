@@ -1,0 +1,77 @@
+{
+  "QuestID": 9193,
+  "Version": 11,
+  "FactionGroup": 1,
+  "CreatedOn": "2015-05-25T12:07:14.2008106Z",
+  "UpdatedOn": "2015-05-28T19:28:39.7933689Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "RecommendedLevel": 17,
+  "Frequency": 1,
+  "QuestStart": {
+    "ObjectName": "Advisor Valwyn",
+    "EntryId": 16289,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3433,
+    "Position": "7544.939 -6763.039 91.22244",
+    "TurnInType": 0,
+    "MyFaction": 1
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "CollectObjectsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "7587.479 -7256.835 155.8184",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "IsIndoors": true,
+            "ContinentId": 530
+          },
+          "Name": "Mummified Troll Remains",
+          "EntryId": 181148
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "7590.888 -7256.431 155.557",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "IsGroundPosition": false,
+          "IsIndoors": true,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "IsLoot": true,
+      "OpeningCast": false,
+      "NoMovement": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    },
+    {
+      "$type": "WaitTemplate",
+      "TimeSeconds": 10.0,
+      "GameObjectiveIndex": 2,
+      "RunTime": 5.0
+    },
+    {
+      "$type": "MoveToTemplate",
+      "Hotspots": [
+        {
+          "Position": "7572.633 -7359.979 161.7383",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "IsIndoors": true,
+          "ContinentId": 530
+        }
+      ],
+      "PreventMounting": false,
+      "GameObjectiveIndex": 3,
+      "RunTime": 5.0
+    }
+  ]
+}

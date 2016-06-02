@@ -1,0 +1,30 @@
+{
+  "QuestID": 9358,
+  "Version": 1,
+  "FactionGroup": 1,
+  "UpdatedOn": "2015-05-23T21:59:38.2331291Z",
+  "Comment": "Implemented By RoberC34\r\n",
+  "CreatedBy": null,
+  "QuestStart": {
+    "ObjectName": "Marniel Amberlight",
+    "EntryId": 15397,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3430,
+    "Position": "8700.384 -6638.356 72.74724",
+    "TurnInType": 0,
+    "MyFaction": 0
+  },
+  "QuestEnd": {
+    "ObjectName": "Ranger Sareyn",
+    "EntryId": 15942,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3430,
+    "Position": "8684.63 -6798.709 94.01672",
+    "TurnInType": 0,
+    "MyFaction": 1
+  },
+  "ActionOrder": 1,
+  "Actions": []
+}

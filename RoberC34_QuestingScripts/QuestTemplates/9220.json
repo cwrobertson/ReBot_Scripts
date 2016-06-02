@@ -1,0 +1,118 @@
+{
+  "QuestID": 9220,
+  "Version": 5,
+  "FactionGroup": 1,
+  "CreatedOn": "2015-05-27T19:58:14.0490253Z",
+  "UpdatedOn": "2015-05-27T20:51:39.6218673Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "RecommendedLevel": 20,
+  "Frequency": 1,
+  "QuestStart": {
+    "ObjectName": "Magister Idonis",
+    "EntryId": 16204,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3433,
+    "Position": "7198.518 -7093.961 66.45869",
+    "TurnInType": 0,
+    "MyFaction": 0
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "6700.443 -6493.402 29.26084",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 530
+          },
+          "Name": "Eye of Dar'Khan",
+          "EntryId": 16320
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "6514.119 -6431.109 44.43508",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 500.0
+    },
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "6409.96 -6518.324 74.10758",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 530
+          },
+          "Name": "Nerubis Centurion",
+          "EntryId": 16319
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "6569.688 -6498.14 35.15513",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "6421.448 -6500.69 63.36808",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 2,
+      "RunTime": 5.0
+    },
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "6613.906 -6396.589 30.11127",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 530
+          },
+          "Name": "Wailer",
+          "EntryId": 16321
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "6614.391 -6392.958 30.37733",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 3,
+      "RunTime": 5.0
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "QuestID": 8479,
+  "Version": 3,
+  "FactionGroup": 1,
+  "CreatedOn": "2015-05-23T23:11:27.5646087Z",
+  "UpdatedOn": "2015-05-23T23:17:08.4120949Z",
+  "Comment": "Added by RoberC34\r\n",
+  "CreatedBy": null,
+  "QuestStart": {
+    "ObjectName": "Ven'jashi",
+    "EntryId": 15406,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3430,
+    "Position": "8666.612 -7960.889 151.7926",
+    "TurnInType": 0,
+    "MyFaction": 1
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "8428.019 -7553.998 174.4589",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 530
+          },
+          "Name": "Chieftain Zul'Marosh",
+          "EntryId": 15407
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "8432.575 -7585.977 157.7138",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "8424.802 -7566.682 161.5382",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "IsIndoors": true,
+          "ContinentId": 530
+        },
+        {
+          "Position": "8412.318 -7557.818 162.0646",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "IsIndoors": true,
+          "ContinentId": 530
+        },
+        {
+          "Position": "8413.368 -7545.567 168.9877",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "IsIndoors": true,
+          "ContinentId": 530
+        },
+        {
+          "Position": "8416.7 -7532.862 169.0276",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "8428.919 -7534.277 174.5298",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "8430.521 -7552.186 174.4578",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "8425.571 -7566.064 174.5922",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 50.0,
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    }
+  ]
+}

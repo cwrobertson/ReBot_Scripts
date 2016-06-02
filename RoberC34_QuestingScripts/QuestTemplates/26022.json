@@ -1,0 +1,74 @@
+{
+  "QuestID": 26022,
+  "Version": 4,
+  "FactionGroup": 1,
+  "CreatedOn": "2015-05-30T17:55:47.4267152Z",
+  "UpdatedOn": "2015-05-31T09:13:02.217112Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "RecommendedLevel": 27,
+  "Frequency": 1,
+  "QuestStart": {
+    "ObjectName": "Dark Ranger Alina",
+    "EntryId": 41949,
+    "AdditionalEntryIds": null,
+    "ContinentId": 0,
+    "ZoneId": 45,
+    "Position": "-975.3438 -1591.498 51.33112",
+    "TurnInType": 0,
+    "IsIndoors": true,
+    "MyFaction": 0
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "-785.1893 -1931.289 45.18036",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 0
+          },
+          "Name": "Syndicate Highwayman",
+          "EntryId": 2586
+        },
+        {
+          "Hotspot": {
+            "Position": "-814.3184 -1972.322 34.12567",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 0
+          },
+          "Name": "Syndicate Pathstalker",
+          "EntryId": 2587
+        },
+        {
+          "Hotspot": {
+            "Position": "-803.1133 -1981.691 33.99656",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 0
+          },
+          "Name": "Syndicate Mercenary",
+          "EntryId": 2589
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "-784.4699 -1929.223 45.03883",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "IsGroundPosition": false,
+          "ContinentId": 0
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    }
+  ]
+}

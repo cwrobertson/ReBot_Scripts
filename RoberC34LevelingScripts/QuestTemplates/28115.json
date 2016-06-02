@@ -1,0 +1,63 @@
+{
+  "QuestID": 28115,
+  "Version": 3,
+  "FactionGroup": 1,
+  "CreatedOn": "2015-05-30T08:32:25.0773249Z",
+  "UpdatedOn": "2015-05-30T08:43:30.2551846Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "RecommendedLevel": 20,
+  "Frequency": 1,
+  "QuestStart": {
+    "ObjectName": "Apothecary Underhill",
+    "EntryId": 47432,
+    "AdditionalEntryIds": null,
+    "ContinentId": 0,
+    "ZoneId": 267,
+    "Position": "-594.835 429.852 79.21713",
+    "TurnInType": 0,
+    "MyFaction": 1
+  },
+  "QuestEnd": {
+    "ObjectName": "Spider-Handler Sarus",
+    "EntryId": 47551,
+    "AdditionalEntryIds": null,
+    "ContinentId": 0,
+    "ZoneId": 267,
+    "Position": "-905.543 232.002 9.405998",
+    "TurnInType": 0,
+    "MyFaction": 1
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "-827.2402 306.1023 46.41863",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 0
+          },
+          "Name": "Infested Bear",
+          "EntryId": 47204
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "-806.1044 256.7632 39.03088",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "IsGroundPosition": false,
+          "ContinentId": 0
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    }
+  ]
+}

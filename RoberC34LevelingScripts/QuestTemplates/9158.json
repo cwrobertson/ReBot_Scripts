@@ -1,0 +1,52 @@
+{
+  "QuestID": 9158,
+  "Version": 3,
+  "FactionGroup": 1,
+  "CreatedOn": "2015-05-25T19:45:41.025727Z",
+  "UpdatedOn": "2015-05-27T07:14:06.4804678Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "RecommendedLevel": 14,
+  "Frequency": 1,
+  "QuestStart": {
+    "ObjectName": "Farstrider Sedina",
+    "EntryId": 16202,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3433,
+    "Position": "7559.694 -7675.63 151.2762",
+    "TurnInType": 0,
+    "MyFaction": 1
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "7620.159 -7748.117 146.8206",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 530
+          },
+          "Name": "Ghostclaw Lynx",
+          "EntryId": 16348
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "7358.714 -7571.049 92.26436",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    }
+  ]
+}

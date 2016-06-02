@@ -1,0 +1,90 @@
+{
+  "QuestID": 9199,
+  "Version": 7,
+  "FactionGroup": 1,
+  "CreatedOn": "2015-05-25T12:25:59.8892129Z",
+  "UpdatedOn": "2015-05-28T19:25:01.0832608Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "RecommendedLevel": 17,
+  "Frequency": 1,
+  "QuestStart": {
+    "ObjectName": "Deathstalker Maltendis",
+    "EntryId": 16251,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3433,
+    "Position": "7556.458 -6759.945 91.22458",
+    "TurnInType": 0,
+    "MyFaction": 1
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "7762.843 -7129.947 129.1752",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 530
+          },
+          "Name": "Shadowpine Oracle",
+          "EntryId": 16343
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "7671.552 -7198.174 152.6046",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        },
+        {
+          "Position": "7626.105 -7255.849 155.1606",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "IsGroundPosition": false,
+          "IsIndoors": true,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    },
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "7624.056 -7258.89 155.1633",
+            "GroundPosition": "0 0 0",
+            "IsIndoors": true,
+            "ContinentId": 530
+          },
+          "Name": "Mummified Headhunter",
+          "EntryId": 16342
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "7626.04 -7255.992 155.1622",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "IsIndoors": true,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    }
+  ]
+}

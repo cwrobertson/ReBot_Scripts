@@ -1,0 +1,61 @@
+{
+  "QuestID": 8468,
+  "Version": 1,
+  "FactionGroup": 0,
+  "CreatedOn": "2015-03-13T17:14:26.3730843Z",
+  "UpdatedOn": "2015-05-26T20:54:50.2646299Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "RecommendedLevel": 6,
+  "Frequency": 1,
+  "QuestStart": {
+    "ObjectName": "Wanted: Thaelis the Hungerer",
+    "EntryId": 180918,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3430,
+    "Position": "9522.192 -6857.907 18.52979",
+    "TurnInType": 1,
+    "MyFaction": 0
+  },
+  "QuestEnd": {
+    "ObjectName": "Sergeant Kan'ren",
+    "EntryId": 16924,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3430,
+    "Position": "9512.203 -6840.142 16.49344",
+    "TurnInType": 0,
+    "MyFaction": 0
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Name": "Thaelis the Hungerer",
+          "EntryId": 15949
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "9814.132 -6712.802 2.566272",
+          "GroundPosition": "0 0 0",
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": true,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    },
+    {
+      "$type": "WaitTemplate",
+      "TimeSeconds": 20.0,
+      "GameObjectiveIndex": 2,
+      "RunTime": -1.0
+    }
+  ]
+}

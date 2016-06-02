@@ -1,0 +1,53 @@
+{
+  "QuestID": 37442,
+  "Version": 3,
+  "FactionGroup": 1,
+  "CreatedOn": "2014-11-04T11:30:01.0487117Z",
+  "UpdatedOn": "2015-05-22T19:04:05.428264Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "RecommendedLevel": 4,
+  "Frequency": 1,
+  "QuestStart": {
+    "ObjectName": "Well Watcher Solanian",
+    "EntryId": 15295,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 6455,
+    "Position": "10376.43 -6406.686 49.71697",
+    "TurnInType": 0,
+    "MyFaction": 1
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "CollectObjectsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "10405.8 -5946.007 42.50818",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 530
+          },
+          "Name": "Shrine of Dath'Remar",
+          "EntryId": 180516
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "10404.51 -5947.491 41.30083",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "IsLoot": true,
+      "OpeningCast": false,
+      "NoMovement": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    }
+  ]
+}

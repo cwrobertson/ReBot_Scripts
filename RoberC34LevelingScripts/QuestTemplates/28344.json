@@ -1,0 +1,33 @@
+{
+  "QuestID": 28344,
+  "Version": 2,
+  "FactionGroup": 1,
+  "CreatedOn": "2015-05-30T10:31:46.2714577Z",
+  "UpdatedOn": "2015-05-30T10:32:02.5721652Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "RecommendedLevel": 22,
+  "Frequency": 1,
+  "QuestStart": {
+    "ObjectName": "Helcular",
+    "EntryId": 48129,
+    "AdditionalEntryIds": null,
+    "ContinentId": 0,
+    "ZoneId": 267,
+    "Position": "-669.304 -539.856 28.12002",
+    "TurnInType": 0,
+    "MyFaction": 1
+  },
+  "QuestEnd": {
+    "ObjectName": "Kingslayer Orkus",
+    "EntryId": 48218,
+    "AdditionalEntryIds": null,
+    "ContinentId": 0,
+    "ZoneId": 267,
+    "Position": "-930.623 -560.286 -2.137677",
+    "TurnInType": 0,
+    "MyFaction": 1
+  },
+  "ActionOrder": 1,
+  "Actions": []
+}

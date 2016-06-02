@@ -1,0 +1,118 @@
+{
+  "QuestID": 9207,
+  "Version": 4,
+  "FactionGroup": 1,
+  "CreatedOn": "2015-05-25T10:41:41.3154397Z",
+  "UpdatedOn": "2015-05-28T07:16:30.5947572Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "RecommendedLevel": 14,
+  "Frequency": 1,
+  "QuestStart": {
+    "ObjectName": "Apprentice Shatharia",
+    "EntryId": 16293,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3433,
+    "Position": "7203.482 -6320.679 33.48117",
+    "TurnInType": 0,
+    "IsIndoors": true,
+    "MyFaction": 0
+  },
+  "QuestEnd": {
+    "ObjectName": "Magister Quallestis",
+    "EntryId": 16291,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3433,
+    "Position": "7199.965 -7096.744 57.06249",
+    "TurnInType": 0,
+    "MyFaction": 1
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "7187.108 -6255.092 20.3863",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 530
+          },
+          "Name": "Blackpaw Gnoll",
+          "EntryId": 16334
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "7179.6 -6214.24 18.22366",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    },
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "7152.384 -6238.306 22.30574",
+            "GroundPosition": "0 0 0",
+            "ContinentId": 530
+          },
+          "Name": "Blackpaw Shaman",
+          "EntryId": 16337
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "7195.323 -6186.665 19.65689",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    },
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "7180.438 -6217.225 18.61815",
+            "GroundPosition": "0 0 0",
+            "ContinentId": 530
+          },
+          "Name": "Blackpaw Scavenger",
+          "EntryId": 16335
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "7195.323 -6186.665 19.65689",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    }
+  ]
+}

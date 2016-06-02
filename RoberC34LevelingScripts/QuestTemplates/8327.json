@@ -1,0 +1,32 @@
+{
+  "QuestID": 8327,
+  "Version": 1,
+  "FactionGroup": 0,
+  "CreatedOn": "2014-06-13T21:27:00.29204Z",
+  "UpdatedOn": "2015-05-24T20:42:53.0710863Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "RecommendedLevel": 3,
+  "QuestStart": {
+    "ObjectName": "Magistrix Erona",
+    "EntryId": 15278,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 6455,
+    "Position": "10351.96 -6359.932 34.03377",
+    "TurnInType": 0,
+    "MyFaction": 0
+  },
+  "QuestEnd": {
+    "ObjectName": "Lanthan Perilon",
+    "EntryId": 15281,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 6455,
+    "Position": "10302.25 -6229.303 26.62262",
+    "TurnInType": 0,
+    "MyFaction": 0
+  },
+  "ActionOrder": 1,
+  "Actions": []
+}

@@ -1,0 +1,84 @@
+{
+  "QuestID": 9174,
+  "Version": 4,
+  "FactionGroup": 1,
+  "CreatedOn": "2015-05-25T18:55:10.7268377Z",
+  "UpdatedOn": "2015-05-29T22:56:09.7986019Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "RecommendedLevel": 13,
+  "Frequency": 1,
+  "QuestStart": {
+    "ObjectName": "Geranis Whitemorn",
+    "EntryId": 16201,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3433,
+    "Position": "7846.54 -7668.925 147.4773",
+    "TurnInType": 0,
+    "MyFaction": 1
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "CollectObjectsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "7937.845 -7636.93 112.4737",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "InWater": true,
+            "ContinentId": 530
+          },
+          "Name": "Altar of Tidal Mastery",
+          "EntryId": 181157
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "7936.898 -7636.113 117.2436",
+          "GroundPosition": "0 0 0",
+          "InWater": true,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "IsLoot": true,
+      "OpeningCast": false,
+      "NoMovement": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    },
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "7939.715 -7636.215 115.437",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "InWater": true,
+            "ContinentId": 530
+          },
+          "Name": "Aquantion",
+          "EntryId": 16292
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "7933.862 -7636.777 119.1328",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "InWater": true,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    }
+  ]
+}

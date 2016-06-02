@@ -1,0 +1,63 @@
+{
+  "QuestID": 9218,
+  "Version": 4,
+  "FactionGroup": 1,
+  "CreatedOn": "2015-05-25T11:41:59.799633Z",
+  "UpdatedOn": "2015-05-28T20:15:40.1354485Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "RecommendedLevel": 18,
+  "Frequency": 1,
+  "QuestStart": {
+    "ObjectName": "Magistrix Aminel",
+    "EntryId": 16205,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3433,
+    "Position": "7577.79 -6897.553 111.9154",
+    "TurnInType": 0,
+    "IsIndoors": true,
+    "MyFaction": 0
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "7068.535 -6545.153 9.210103",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 530
+          },
+          "Name": "Deathcage Sorcerer",
+          "EntryId": 16308
+        },
+        {
+          "Hotspot": {
+            "Position": "7046.897 -6519.392 9.027937",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 530
+          },
+          "Name": "Dreadbone Sentinel",
+          "EntryId": 16305
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "6973.759 -6536.803 9.36969",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": true,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "QuestID": 28331,
+  "Version": 3,
+  "FactionGroup": 1,
+  "CreatedOn": "2015-05-30T10:03:53.371744Z",
+  "UpdatedOn": "2015-05-30T10:08:24.2935421Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "RecommendedLevel": 22,
+  "Frequency": 1,
+  "QuestStart": {
+    "ObjectName": "Helcular",
+    "EntryId": 48129,
+    "AdditionalEntryIds": null,
+    "ContinentId": 0,
+    "ZoneId": 267,
+    "Position": "-669.304 -539.856 28.12003",
+    "TurnInType": 0,
+    "MyFaction": 1
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "UseItemTemplate",
+      "UseMethod": 0,
+      "OverrideCooldown": 0.0,
+      "OverrideCastTime": 0.0,
+      "StayMounted": false,
+      "MinCastRange": 4.5,
+      "DontFilterDeadUnits": false,
+      "UseCount": 1,
+      "TargetUnits": [
+        {
+          "Hotspot": {
+            "Position": "-526.5598 -501.6661 39.66995",
+            "GroundPosition": "0 0 0",
+            "ContinentId": 0
+          },
+          "Name": "Dark Ranger",
+          "EntryId": 48269
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "-518.3652 -523.9603 42.24203",
+          "GroundPosition": "0 0 0",
+          "NoMount": true,
+          "TargetSearchRange": 500.0,
+          "ContinentId": 0
+        }
+      ],
+      "Blackspots": [],
+      "Item": [
+        {
+          "Name": "Helcular's Rod",
+          "EntryId": 63508
+        }
+      ],
+      "BanTime": 120.0,
+      "BanMobCombatAfterUse": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    }
+  ]
+}

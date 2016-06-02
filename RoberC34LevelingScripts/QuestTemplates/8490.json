@@ -1,0 +1,363 @@
+{
+  "QuestID": 8490,
+  "Version": 5,
+  "FactionGroup": 1,
+  "CreatedOn": "2015-05-24T13:34:25.9400598Z",
+  "UpdatedOn": "2015-05-24T14:03:54.5102162Z",
+  "Comment": "Added by RoberC34",
+  "CreatedBy": null,
+  "RecommendedLevel": 10,
+  "Frequency": 1,
+  "QuestStart": {
+    "ObjectName": "Runewarden Deryan",
+    "EntryId": 16362,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3430,
+    "Position": "8235.502 -6664.062 84.47693",
+    "TurnInType": 0,
+    "IsIndoors": true,
+    "MyFaction": 0
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "UseItemTemplate",
+      "UseMethod": 0,
+      "OverrideCooldown": 0.0,
+      "OverrideCastTime": 0.0,
+      "StayMounted": false,
+      "MinCastRange": 4.5,
+      "DontFilterDeadUnits": false,
+      "UseCount": 1,
+      "TargetUnits": [],
+      "HotspotsX": [
+        {
+          "Position": "8276.096 -7213.49 137.8217",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "Item": [
+        {
+          "Name": "Infused Crystal",
+          "EntryId": 22693
+        }
+      ],
+      "BanTime": 120.0,
+      "BanMobCombatAfterUse": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    },
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "8273.515 -7214.195 138.1947",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 530
+          },
+          "Name": "Enraged Wraith",
+          "EntryId": 17086
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "8270.93 -7213.208 138.4172",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": true,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    },
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "8273.515 -7214.195 138.1947",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 530
+          },
+          "Name": "Enraged Wraith",
+          "EntryId": 17086
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "8270.93 -7213.208 138.4172",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": true,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    },
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "8273.515 -7214.195 138.1947",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 530
+          },
+          "Name": "Enraged Wraith",
+          "EntryId": 17086
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "8270.93 -7213.208 138.4172",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": true,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    },
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "8273.515 -7214.195 138.1947",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 530
+          },
+          "Name": "Enraged Wraith",
+          "EntryId": 17086
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "8270.93 -7213.208 138.4172",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": true,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    },
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "8273.515 -7214.195 138.1947",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 530
+          },
+          "Name": "Enraged Wraith",
+          "EntryId": 17086
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "8270.93 -7213.208 138.4172",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": true,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    },
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "8273.515 -7214.195 138.1947",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 530
+          },
+          "Name": "Enraged Wraith",
+          "EntryId": 17086
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "8270.93 -7213.208 138.4172",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": true,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    },
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "8273.515 -7214.195 138.1947",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 530
+          },
+          "Name": "Enraged Wraith",
+          "EntryId": 17086
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "8270.93 -7213.208 138.4172",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": true,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    },
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "8273.515 -7214.195 138.1947",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 530
+          },
+          "Name": "Enraged Wraith",
+          "EntryId": 17086
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "8270.93 -7213.208 138.4172",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": true,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    },
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "8273.515 -7214.195 138.1947",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 530
+          },
+          "Name": "Enraged Wraith",
+          "EntryId": 17086
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "8270.93 -7213.208 138.4172",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": true,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    },
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "8273.515 -7214.195 138.1947",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 530
+          },
+          "Name": "Enraged Wraith",
+          "EntryId": 17086
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "8270.93 -7213.208 138.4172",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": true,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    },
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "8273.515 -7214.195 138.1947",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 530
+          },
+          "Name": "Enraged Wraith",
+          "EntryId": 17086
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "8270.93 -7213.208 138.4172",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": true,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    }
+  ]
+}

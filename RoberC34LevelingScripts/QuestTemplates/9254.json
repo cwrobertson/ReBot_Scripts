@@ -1,0 +1,31 @@
+{
+  "QuestID": 9254,
+  "Version": 1,
+  "FactionGroup": 0,
+  "CreatedOn": "2015-03-13T17:14:26.7380843Z",
+  "UpdatedOn": "2015-05-23T20:56:16.4146775Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "QuestStart": {
+    "ObjectName": "Magistrix Landra Dawnstrider",
+    "EntryId": 16210,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3430,
+    "Position": "8718.337 -6655.903 72.75519",
+    "TurnInType": 0,
+    "MyFaction": 0
+  },
+  "QuestEnd": {
+    "ObjectName": "Apprentice Mirveda",
+    "EntryId": 15402,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3430,
+    "Position": "8711.217 -7161.153 43.48492",
+    "TurnInType": 0,
+    "MyFaction": 0
+  },
+  "ActionOrder": 1,
+  "Actions": []
+}

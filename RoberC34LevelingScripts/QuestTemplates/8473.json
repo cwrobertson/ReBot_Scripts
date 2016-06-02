@@ -1,0 +1,102 @@
+{
+  "QuestID": 8473,
+  "Version": 1,
+  "FactionGroup": 1,
+  "UpdatedOn": "2015-05-23T21:54:18.0858177Z",
+  "Comment": "Implemented By RoberC34",
+  "CreatedBy": null,
+  "QuestStart": {
+    "ObjectName": "Larianna Riverwind",
+    "EntryId": 15398,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3430,
+    "Position": "8414.192 -6165.001 61.31243",
+    "TurnInType": 0,
+    "MyFaction": 0
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "8204.506 -6152.106 30.92562",
+            "GroundPosition": "0 0 0",
+            "ContinentId": 530
+          },
+          "Name": "Withered Green Keeper",
+          "EntryId": 15637
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "8413.885 -6148.815 59.40334",
+          "GroundPosition": "0 0 0",
+          "ContinentId": 530
+        },
+        {
+          "Position": "8394.835 -6149.674 59.33319",
+          "GroundPosition": "0 0 0",
+          "ContinentId": 530
+        },
+        {
+          "Position": "8368.62 -6170.652 58.92656",
+          "GroundPosition": "0 0 0",
+          "ContinentId": 530
+        },
+        {
+          "Position": "8350.727 -6189.351 61.21524",
+          "GroundPosition": "0 0 0",
+          "ContinentId": 530
+        },
+        {
+          "Position": "8328.965 -6193.038 56.57632",
+          "GroundPosition": "0 0 0",
+          "ContinentId": 530
+        },
+        {
+          "Position": "8273.679 -6199.551 50.34557",
+          "GroundPosition": "0 0 0",
+          "ContinentId": 530
+        },
+        {
+          "Position": "8235.247 -6203.41 44.94566",
+          "GroundPosition": "0 0 0",
+          "ContinentId": 530
+        },
+        {
+          "Position": "8207.968 -6176.449 35.92515",
+          "GroundPosition": "0 0 0",
+          "ContinentId": 530
+        },
+        {
+          "Position": "8204.876 -6135.486 27.89732",
+          "GroundPosition": "0 0 0",
+          "ContinentId": 530
+        },
+        {
+          "Position": "8220.134 -6090.543 21.88875",
+          "GroundPosition": "0 0 0",
+          "ContinentId": 530
+        },
+        {
+          "Position": "8246.737 -6065.88 20.96672",
+          "GroundPosition": "0 0 0",
+          "ContinentId": 530
+        },
+        {
+          "Position": "8292.955 -6078.246 29.06576",
+          "GroundPosition": "0 0 0",
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": true,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    }
+  ]
+}

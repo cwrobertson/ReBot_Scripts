@@ -1,0 +1,31 @@
+{
+  "QuestID": 9758,
+  "Version": 2,
+  "FactionGroup": 1,
+  "CreatedOn": "2015-05-25T18:00:58.2124802Z",
+  "UpdatedOn": "2015-05-25T18:00:59.8835677Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "QuestStart": {
+    "ObjectName": "High Executor Mavren",
+    "EntryId": 16252,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3433,
+    "Position": "7552.797 -6760.879 91.23535",
+    "TurnInType": 0,
+    "MyFaction": 1
+  },
+  "QuestEnd": {
+    "ObjectName": "Arcanist Vandril",
+    "EntryId": 16197,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3433,
+    "Position": "7642.416 -6815.333 78.98608",
+    "TurnInType": 0,
+    "MyFaction": 1
+  },
+  "ActionOrder": 1,
+  "Actions": []
+}

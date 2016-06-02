@@ -1,0 +1,167 @@
+{
+  "QuestID": 8486,
+  "Version": 8,
+  "FactionGroup": 1,
+  "CreatedOn": "2015-03-13T17:14:26.4530843Z",
+  "UpdatedOn": "2015-05-26T21:08:50.8090547Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "RecommendedLevel": 6,
+  "Frequency": 1,
+  "QuestStart": {
+    "ObjectName": "Ley-Keeper Velania",
+    "EntryId": 15401,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3430,
+    "Position": "9155.777 -6294.84 21.04669",
+    "TurnInType": 0,
+    "MyFaction": 0
+  },
+  "QuestEnd": {
+    "ObjectName": "Ley-Keeper Velania",
+    "EntryId": 15401,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3430,
+    "Position": "9155.777 -6294.84 21.04688",
+    "TurnInType": 0,
+    "MyFaction": 0
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "MoveToTemplate",
+      "Hotspots": [
+        {
+          "Position": "9002.898 -6143.267 28.54176",
+          "GroundPosition": "0 0 0",
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "PreventMounting": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 120.0
+    },
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "8979.985 -6131.23 28.13049",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 530
+          },
+          "Name": "Mana Stalker",
+          "EntryId": 15647
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "9151.588 -6276.714 22.46778",
+          "GroundPosition": "0 0 0",
+          "ContinentId": 530
+        },
+        {
+          "Position": "9197.705 -6220.681 23.89431",
+          "GroundPosition": "0 0 0",
+          "ContinentId": 530
+        },
+        {
+          "Position": "9173.233 -6173.571 34.70171",
+          "GroundPosition": "0 0 0",
+          "ContinentId": 530
+        },
+        {
+          "Position": "9082.333 -6151.722 35.9604",
+          "GroundPosition": "0 0 0",
+          "ContinentId": 530
+        },
+        {
+          "Position": "8970.181 -6135.003 27.90564",
+          "GroundPosition": "0 0 0",
+          "ContinentId": 530
+        },
+        {
+          "Position": "9054.342 -6205.171 17.46396",
+          "GroundPosition": "0 0 0",
+          "ContinentId": 530
+        },
+        {
+          "Position": "9090.2 -6255.004 17.72353",
+          "GroundPosition": "0 0 0",
+          "ContinentId": 530
+        },
+        {
+          "Position": "9133.455 -6255.267 17.86142",
+          "GroundPosition": "0 0 0",
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 2,
+      "RunTime": 5.0
+    },
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "9053.125 -6185.157 19.60568",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 530
+          },
+          "Name": "Manawraith",
+          "EntryId": 15648
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "9133.455 -6255.267 17.86142",
+          "GroundPosition": "0 0 0",
+          "ContinentId": 530
+        },
+        {
+          "Position": "9162.957 -6219.888 17.28299",
+          "GroundPosition": "0 0 0",
+          "ContinentId": 530
+        },
+        {
+          "Position": "9095.577 -6195.194 18.26746",
+          "GroundPosition": "0 0 0",
+          "ContinentId": 530
+        },
+        {
+          "Position": "9010.558 -6166.083 25.50845",
+          "GroundPosition": "0 0 0",
+          "ContinentId": 530
+        },
+        {
+          "Position": "9048.727 -6141.583 32.72852",
+          "GroundPosition": "0 0 0",
+          "ContinentId": 530
+        },
+        {
+          "Position": "9110.651 -6152.787 37.88227",
+          "GroundPosition": "0 0 0",
+          "ContinentId": 530
+        },
+        {
+          "Position": "9164.562 -6183.385 33.06437",
+          "GroundPosition": "0 0 0",
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 3,
+      "RunTime": 5.0
+    }
+  ]
+}

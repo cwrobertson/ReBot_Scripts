@@ -1,0 +1,31 @@
+{
+  "QuestID": 9359,
+  "Version": 1,
+  "FactionGroup": 0,
+  "CreatedOn": "2015-03-13T17:14:26.9790843Z",
+  "UpdatedOn": "2015-05-23T21:19:19.439782Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "QuestStart": {
+    "ObjectName": "Ranger Degolien",
+    "EntryId": 15939,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3430,
+    "Position": "8716.27 -6622.223 80.68239",
+    "TurnInType": 0,
+    "MyFaction": 0
+  },
+  "QuestEnd": {
+    "ObjectName": "Lieutenant Dawnrunner",
+    "EntryId": 15399,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3430,
+    "Position": "8980.838 -7458.359 86.68931",
+    "TurnInType": 0,
+    "MyFaction": 0
+  },
+  "ActionOrder": 1,
+  "Actions": []
+}

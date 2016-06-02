@@ -1,0 +1,33 @@
+{
+  "QuestID": 9166,
+  "Version": 3,
+  "FactionGroup": 1,
+  "CreatedOn": "2015-05-25T12:44:03.035102Z",
+  "UpdatedOn": "2015-05-27T19:54:57.0264426Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "RecommendedLevel": 16,
+  "Frequency": 1,
+  "QuestStart": {
+    "ObjectName": "Dame Auriferous",
+    "EntryId": 16231,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3433,
+    "Position": "7551.524 -6764.349 91.25445",
+    "TurnInType": 0,
+    "MyFaction": 1
+  },
+  "QuestEnd": {
+    "ObjectName": "Magister Sylastor",
+    "EntryId": 16237,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3433,
+    "Position": "7482.902 -7272.874 98.05027",
+    "TurnInType": 0,
+    "MyFaction": 1
+  },
+  "ActionOrder": 1,
+  "Actions": []
+}

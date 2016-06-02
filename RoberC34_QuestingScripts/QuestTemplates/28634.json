@@ -1,0 +1,79 @@
+{
+  "QuestID": 28634,
+  "Version": 6,
+  "FactionGroup": 1,
+  "CreatedOn": "2015-05-30T17:14:01.8003466Z",
+  "UpdatedOn": "2015-05-30T17:23:57.9317833Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "RecommendedLevel": 25,
+  "Frequency": 1,
+  "QuestStart": {
+    "ObjectName": "Nils Beerot",
+    "EntryId": 49201,
+    "AdditionalEntryIds": null,
+    "ContinentId": 0,
+    "ZoneId": 267,
+    "Position": "-581.25 -1067.754 65.84814",
+    "TurnInType": 0,
+    "MyFaction": 1
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "-812.6223 -1062.326 47.00769",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 0
+          },
+          "Name": "Rampaging Owlbeast",
+          "EntryId": 49245
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "-825.1178 -1087.96 47.46925",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "IsGroundPosition": false,
+          "ContinentId": 0
+        },
+        {
+          "Position": "-1044.741 -959.53 48.83158",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "IsGroundPosition": false,
+          "ContinentId": 0
+        },
+        {
+          "Position": "-1069.629 -1099.471 45.74286",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "IsGroundPosition": false,
+          "ContinentId": 0
+        },
+        {
+          "Position": "-700.8464 -1247.327 59.8826",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "ContinentId": 0
+        },
+        {
+          "Position": "-601.9559 -1349.604 63.28521",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "ContinentId": 0
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    }
+  ]
+}

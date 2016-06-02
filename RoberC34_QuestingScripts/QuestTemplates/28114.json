@@ -1,0 +1,64 @@
+{
+  "QuestID": 28114,
+  "Version": 3,
+  "FactionGroup": 1,
+  "CreatedOn": "2015-05-30T08:32:51.9372686Z",
+  "UpdatedOn": "2015-05-30T08:43:19.3703977Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "RecommendedLevel": 20,
+  "Frequency": 1,
+  "QuestStart": {
+    "ObjectName": "Apothecary Underhill",
+    "EntryId": 47432,
+    "AdditionalEntryIds": null,
+    "ContinentId": 0,
+    "ZoneId": 267,
+    "Position": "-594.835 429.852 79.21713",
+    "TurnInType": 0,
+    "MyFaction": 1
+  },
+  "QuestEnd": {
+    "ObjectName": "Spider-Handler Sarus",
+    "EntryId": 47551,
+    "AdditionalEntryIds": null,
+    "ContinentId": 0,
+    "ZoneId": 267,
+    "Position": "-905.543 232.002 9.405998",
+    "TurnInType": 0,
+    "MyFaction": 1
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "CollectObjectsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "-835.1076 274.846 40.99838",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 0
+          },
+          "Name": "Creeper Egg",
+          "EntryId": 47203
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "-833.7078 276.1585 38.60067",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "IsGroundPosition": false,
+          "ContinentId": 0
+        }
+      ],
+      "Blackspots": [],
+      "IsLoot": true,
+      "OpeningCast": false,
+      "NoMovement": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    }
+  ]
+}

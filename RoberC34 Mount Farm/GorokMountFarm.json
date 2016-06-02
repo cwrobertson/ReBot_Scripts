@@ -1,0 +1,3615 @@
+{
+  "ProfileName": null,
+  "ContinentId": 1116,
+  "ZoneID": 6720,
+  "Faction": 0,
+  "RequiresFlying": false,
+  "MinLevel": 0,
+  "MaxLevel": 0,
+  "Professions": [],
+  "GatherObjectsInWater": false,
+  "GatherObjectsUnderground": false,
+  "Reversible": false,
+  "ChooseRandomWaypoint": false,
+  "MaximumStrayFromWaypoints": 150,
+  "DismountMobCount": 0,
+  "Waypoints": [
+    {
+      "IsGrind": true,
+      "Position": "6328.919 4381.711 107.4568"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6328.991 4391.921 111.0715"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6329.063 4402.085 113.9217"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6329.134 4412.125 115.954"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6329.205 4422.182 117.6535"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6329.277 4432.314 120.0979"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6328.448 4442.312 123.6865"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6324.969 4451.817 126.1546"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6321.204 4461.092 127.7816"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6317.41 4470.438 128.7184"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6313.645 4479.713 129.1637"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6309.805 4489.172 129.4392"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6306.171 4499.373 129.6408"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6301.409 4509.062 129.7538"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6300.298 4519.134 129.5879"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6300.383 4529.161 129.5171"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6300.783 4539.332 129.5171"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6301.244 4551.073 129.5156"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6301.694 4562.522 129.514"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6302.165 4574.509 129.5079"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6302.559 4584.527 129.5273"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6303.008 4595.976 129.5238"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6303.418 4606.409 129.5302"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6304 4616.501 129.3152"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6306.472 4626.223 129.3152"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6309.234 4636.049 129.3152"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6311.669 4645.799 129.3699"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6314.445 4657.36 129.334"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6317.148 4668.621 129.3997"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6319.514 4678.474 129.3533"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6321.879 4688.327 129.2752"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6324.114 4698.094 129.2347"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6326.603 4708.995 129.2466"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6327.513 4719.626 129.2842"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6326.617 4729.611 129.3111"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6325.718 4739.618 129.6429"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6324.686 4751.122 130.2483"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6323.785 4761.153 130.7771"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6322.877 4771.261 131.0831"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6321.97 4781.369 131.1776"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6321.064 4791.461 131.273"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6320.158 4801.554 131.374"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6319.253 4811.631 131.5573"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6318.343 4821.77 131.7416"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6317.432 4831.924 131.9259"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6316.537 4841.886 132.5159"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6315.001 4853.468 133.3748"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6311.074 4862.777 133.8154"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6306.865 4871.927 134.2211"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6304.078 4882.727 134.9685"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6299.817 4891.988 135.4754"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6293.671 4901.934 135.0822"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6288.008 4910.281 134.3821"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6282.345 4918.628 133.7229"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6276.564 4926.802 133.03"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6268.659 4933.231 132.1317"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6261.911 4940.729 131.485"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6255.89 4948.786 130.2171"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6249.835 4958.867 129.8622"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6242.587 4967.863 129.8774"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6236.917 4976.262 131.0275"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6231.266 4984.635 132.2362"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6226.365 4993.345 132.7437"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6221.216 5002.051 132.1555"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6215.02 5012.225 131.4656"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6209.088 5022.179 131.9415"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6203.711 5030.877 131.8254"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6197.513 5040.611 131.7643"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6190.636 5048.211 132.0767"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6183.89 5057.77 132.314"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6178.183 5066.087 132.5333"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6174.59 5075.54 132.4928"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6171.115 5084.959 132.509"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6167.579 5094.488 132.2576"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6161.825 5104.786 131.9341"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6156.431 5115.191 132.5751"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6152.497 5124.39 132.4827"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6147.173 5133.047 132.382"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6141.921 5141.587 131.6644"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6136.645 5150.167 131.6458"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6130.348 5158.119 131.9688"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6122.239 5166.279 132.4592"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6114.341 5172.521 132.794"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6106.329 5178.725 133.6418"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6097.112 5185.863 133.7754"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6089.076 5192.086 133.024"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6081.052 5198.3 131.791"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6073.733 5205.209 131.2064"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6068.272 5213.726 131.5636"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6063.375 5223.964 132.236"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6057.888 5232.521 133.3742"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6052.496 5240.93 135.7695"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6050.786 5250.523 138.2737"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6052.388 5260.491 137.2919"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6054.491 5270.373 136.878"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6056.579 5280.185 137.2266"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6058.679 5290.051 137.2523"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6060.789 5299.962 138.7984"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6062.882 5309.798 141.6649"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6064.962 5319.574 144.5853"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6067.049 5329.38 145.6738"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6069.175 5339.366 143.1289"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6071.284 5349.277 139.3684"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6073.371 5359.083 136.4847"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6075.458 5368.889 135.9867"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6077.542 5378.679 136.1614"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6079.638 5388.529 137.0347"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6081.719 5398.305 139.5218"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6083.796 5408.065 143.2072"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6085.973 5418.293 146.2339"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6088.043 5428.023 144.1332"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6090.13 5437.829 141.9178"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6092.208 5447.59 139.9724"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6094.378 5457.787 138.3145"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6096.77 5469.024 137"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6098.94 5479.221 133.1852"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6101.008 5488.937 131.8804"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6103.486 5500.58 132.3811"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6105.864 5511.756 132.4599"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6108.025 5521.909 133.8956"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6110.084 5531.582 136.5628"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6112.251 5541.764 141.1352"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6114.329 5551.525 146.718"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6116.409 5561.301 151.9632"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6114.981 5572.221 155.0831"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6108.999 5580.118 153.6991"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6106.438 5589.577 151.4775"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6104.289 5599.637 147.905"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6102.242 5609.561 145.0593"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6100.199 5619.502 142.4897"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6097.848 5630.945 141.7858"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6095.833 5640.75 141.7174"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6091.502 5651.739 140.8684"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6087.166 5660.88 141.657"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6084.015 5670.309 143.6263"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6080.824 5679.924 143.6078"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6078.293 5689.752 139.406"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6074.62 5698.949 135.7687"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6069.109 5709.396 132.8419"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6064.46 5718.209 130.8678"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6059.733 5727.172 129.9818"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6055.02 5736.108 129.5209"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6050.321 5745.016 128.7489"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6045.665 5753.843 128.0519"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6040.262 5764.086 127.3815"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6035.599 5772.926 126.6208"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6030.894 5781.848 125.9463"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6025.972 5791.179 125.2636"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6020.612 5801.34 124.5214"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6015.928 5810.221 123.7587"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6011.243 5819.103 122.7629"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6006.551 5827.997 121.9971"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6001.651 5837.287 122.1567"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5996.306 5847.421 122.1444"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5991.636 5856.275 121.5582"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5986.757 5865.523 121.2441"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5981.397 5875.685 120.9829"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5976.534 5884.907 121.1172"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5971.407 5893.551 119.2959"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5964.901 5902.857 119.3015"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5954.694 5907.647 119.9485"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5945.217 5911.365 121.9891"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5935.899 5915.021 123.9986"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5926.508 5918.705 124.8736"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5916.989 5922.439 125.6731"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5906.291 5927.081 126.2892"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5897.694 5932.386 126.3846"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5889.031 5937.732 125.4556"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5880.513 5942.989 123.4486"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5871.955 5948.271 119.2951"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5864.76 5952.711 113.7762"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5856.05 5957.881 111.7961"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5847.1 5962.406 111.6287"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5837.842 5966.485 116.5669"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5828.631 5970.463 118.9928"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5819.377 5974.459 119.5795"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5810.117 5978.458 119.3003"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5800.814 5982.475 118.8712"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5791.539 5986.479 118.2132"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5782.25 5990.491 117.511"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5772.947 5994.508 117.4622"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5764.329 6000.182 117.4928"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5756.428 6006.552 117.6569"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5748.341 6012.654 118.0067"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5739.995 6018.251 118.7404"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5730.71 6024.34 118.7661"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5720.052 6025.964 117.3854"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5710.25 6027.946 117.1765"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5700.536 6030.603 117.1989"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5690.866 6033.249 117.0973"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5679.408 6031.207 117.1175"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5669.374 6031.764 117.4014"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5658.457 6033.873 118.0903"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5652.479 6042.714 117.0803"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5641.89 6046.477 117.081"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5632.003 6048.387 116.6774"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5621.732 6052.457 116.6747"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5616.099 6060.788 117.0758"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5610.429 6069.173 117.7537"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5601.041 6075.998 116.4687"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5592.374 6081.16 115.7655"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5583.092 6088.118 115.4195"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5579.532 6098.464 115.7112"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5577.119 6109.482 117.0022"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5577.472 6119.515 118.0874"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5578.426 6129.526 116.9866"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5579.377 6139.511 119.1057"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5580.743 6149.296 121.0813"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5588.292 6155.941 120.1338"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5595.566 6164.447 120.3551"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5598.908 6174.947 121.936"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5606.445 6181.582 121.0499"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5614.051 6188.277 119.8098"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5621.634 6194.952 118.544"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5629.151 6201.562 117.4404"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5635.558 6209.398 116.4693"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5641.429 6217.601 115.7537"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5647.305 6225.723 114.5998"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5653.524 6233.664 113.4603"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5659.83 6241.714 112.3136"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5665.964 6249.546 111.1084"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5672.423 6257.309 109.5562"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5674.029 6268.257 108.8376"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5671.855 6257.77 109.6644"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5667.457 6247.67 110.8198"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5665.281 6237.789 111.0159"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5657.684 6229.846 112.4772"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5653.554 6220.109 112.5368"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5651.729 6209.097 113.5294"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5649.832 6199.161 114.3567"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5656.119 6189.71 116.6887"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5663.022 6182.247 119.3668"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5670.583 6175.707 122.214"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5677.243 6167.968 125.5155"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5683.375 6160.038 128.8105"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5693.104 6157.464 132.2696"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5698.111 6148.796 132.6668"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5703.203 6139.982 131.8301"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5708.249 6131.248 130.549"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5713.295 6122.514 129.0298"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5718.317 6113.819 127.3646"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5723.378 6105.058 125.1698"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5728.401 6096.364 122.8559"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5734.294 6086.163 120.7723"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5739.372 6077.374 123.2356"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5742.589 6067.994 124.8373"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5744.793 6058.022 126.2127"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5747.306 6046.654 127.2656"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5748.511 6035.514 126.0833"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5746.405 6025.618 122.2357"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5743.27 6016.186 118.4866"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5740.6 6005.531 116.9991"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5744.625 5994.529 116.9447"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5748.488 5985.161 116.3298"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5757.939 5979.619 116.0638"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5767.87 5977.768 115.8527"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5777.932 5976.036 115.5252"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5787.782 5974.341 116.0672"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5797.624 5972.647 117.8557"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5808.866 5972.922 119.5213"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5819.112 5972.96 119.6317"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5830.063 5969.244 118.7139"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5838.304 5963.979 115.8333"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5846.829 5958.53 111.3328"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5855.381 5953.065 110.6096"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5863.932 5947.601 114.2304"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5871.173 5942.973 119.7324"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5879.296 5937.782 122.9825"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5887.822 5932.333 125.0641"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5896.361 5926.877 126.2144"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5904.825 5921.468 126.5542"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5913.337 5916.028 126.623"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5921.824 5910.605 126.552"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5930.298 5905.19 125.9063"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5938.811 5899.75 124.3839"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5947.297 5894.327 121.6542"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5955.745 5888.928 119.8207"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5964.66 5883.231 119.787"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5973.081 5877.711 121.1237"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5980.548 5869.5 121.7256"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5986.938 5860.143 121.8713"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5993.205 5852.141 121.8951"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5999.396 5844.236 121.9021"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6005.091 5835.901 121.4802"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6009.697 5826.862 121.6652"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6014.234 5817.957 122.8332"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6018.821 5808.955 123.9488"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6023.351 5800.063 124.7135"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6027.881 5791.172 125.484"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6037.382 5772.525 126.9332"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6042.336 5762.802 127.7412"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6047.06 5753.533 128.2741"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6052.254 5743.337 129.1164"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6056.987 5734.048 129.8164"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6062.182 5723.853 130.3251"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6066.898 5714.555 131.7689"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6067.622 5703.387 132.8132"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6069.567 5693.442 135.0151"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6071.478 5683.675 138.0214"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6073.426 5673.715 140.9941"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6075.352 5663.874 142.5612"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6077.312 5653.853 141.4126"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6079.547 5642.427 141.0884"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6081.752 5631.156 141.5478"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6083.698 5621.211 143.5867"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6085.652 5611.221 145.2141"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6087.601 5601.261 143.745"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6089.552 5591.286 144.1413"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6092.04 5581.373 144.7475"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6093.563 5570.393 144.3028"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6094.654 5560.355 143.1924"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6095.346 5550.585 140.0449"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6096.059 5540.508 136.3266"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6096.772 5530.431 132.6915"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6097.487 5520.339 130.8744"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6098.197 5510.308 130.6717"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6098.911 5500.23 130.6339"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6099.626 5490.123 131.2522"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6100.336 5480.091 133.243"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6101.048 5470.042 136.852"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6101.759 5459.992 138.9542"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6102.47 5449.961 140.7306"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6103.174 5440.007 142.902"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6103.919 5429.484 143.6284"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6104.628 5419.467 144.7801"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6105.34 5409.405 146.754"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6106.056 5399.297 145.8228"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6106.766 5389.266 143.0172"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6104.349 5378.688 139.3585"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6102.276 5367.888 139.5039"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6102.983 5357.903 139.519"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6103.698 5347.795 138.5201"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6104.42 5337.595 139.3921"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6105.125 5327.641 141.9262"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6105.836 5317.594 143.5617"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6106.561 5307.363 141.3413"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6107.27 5297.347 139.5141"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6107.981 5287.301 138.6476"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6108.688 5277.316 138.2349"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6109.402 5267.224 137.4146"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6110.116 5257.146 136.5205"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6110.831 5247.054 135.6263"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6111.533 5237.13 134.535"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6112.258 5226.884 133.2004"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6113.364 5216.915 132.0659"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6115.323 5205.422 131.9626"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6117.179 5195.508 131.9298"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6119.198 5185.563 132.4032"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6121.213 5175.632 132.4415"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6123.287 5165.73 132.4374"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6127.583 5154.782 132.2189"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6135.554 5146.446 131.7344"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6138.27 5135.219 131.6643"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6141.114 5123.803 131.6696"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6147.288 5114.761 132.6933"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6158.494 5113.596 132.5748"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6162.546 5104.313 131.9416"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6165.415 5094.614 132.1068"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6169.104 5083.382 132.3451"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6173.905 5074.471 132.6642"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6180.134 5064.582 132.4147"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6186.658 5054.829 132.154"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6192.627 5046.488 131.9475"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6198.518 5038.244 131.8479"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6204.99 5028.566 131.8833"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6210.563 5020.196 131.8328"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6216.154 5011.8 131.5184"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6221.813 5003.302 132.1106"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6228.249 4993.637 132.7836"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6233.891 4985.164 132.2509"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6239.49 4976.755 131.0395"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6245.089 4968.347 129.9409"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6250.688 4959.938 129.8741"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6256.313 4951.491 130.1071"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6261.853 4943.172 131.4193"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6267.452 4934.763 132.016"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6273.981 4924.957 132.6987"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6280.348 4915.481 133.4398"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6288.903 4908.167 134.4853"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6292.83 4898.794 134.949"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6296.812 4889.492 134.9523"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6301.405 4878.761 134.3333"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6305.351 4869.544 133.8754"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6309.841 4859.054 133.3806"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6313.95 4849.455 132.9329"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6318.641 4838.497 132.4041"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6323.131 4828.007 132.4657"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6327.222 4818.45 132.6609"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6331.713 4807.959 132.8752"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6335.81 4798.389 133.1432"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6340.318 4787.856 133.5355"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6344.307 4778.151 134.207"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6345.974 4768.094 134.218"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6347.612 4758.203 134.1584"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6349.25 4748.313 133.8606"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6350.287 4738.294 133.4571"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6349.98 4728.192 132.9314"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6350.304 4718.157 132.7707"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6349.903 4708.161 132.7061"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6348.848 4698.098 132.6609"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6347.799 4688.097 132.7376"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6346.735 4677.942 132.5284"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6345.68 4667.88 132.163"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6344.456 4656.209 131.9739"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6343.402 4646.162 132.1142"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6342.169 4634.399 132.3081"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6340.979 4623.05 132.2747"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6339.928 4613.033 132.3392"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6338.87 4602.939 132.3956"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6337.823 4592.954 132.2513"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6336.774 4582.952 131.835"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6335.412 4569.964 131.4828"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6334.314 4559.488 131.2421"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6333.27 4549.533 130.4147"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6332.213 4539.455 130.2127"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6331.169 4529.5 129.8199"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6330.091 4519.222 129.3784"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6329.089 4508.955 128.9339"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6328.547 4498.882 128.1671"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6328.613 4488.845 128.0523"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6329.582 4478.771 128.8953"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6333.948 4467.985 128.5572"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6339.406 4459.485 127.432"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6344.908 4450.993 125.1037"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6350.384 4442.541 122.0199"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6355.852 4434.101 119.8476"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6361.328 4425.648 118.4715"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6366.788 4417.221 117.8017"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6372.264 4408.769 116.946"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6377.815 4400.2 114.5089"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6383.292 4391.747 110.6526"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6388.776 4383.281 106.3712"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6394.27 4374.803 102.2541"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6399.771 4366.312 98.49987"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6405.205 4357.923 95.531"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6410.707 4349.432 92.9281"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6416.233 4340.902 92.13507"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6421.692 4332.475 92.1284"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6427.219 4323.944 92.1284"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6432.704 4315.479 92.1284"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6439.457 4305.825 92.1284"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6446.49 4298.681 92.1284"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6453.577 4291.481 92.1284"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6461.722 4283.206 92.1284"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6468.896 4275.918 92.1284"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6475.95 4268.751 92.1284"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6483.015 4261.574 92.1284"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6490.059 4254.418 92.1284"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6497.189 4247.175 92.1284"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6504.298 4239.953 92.1284"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6511.331 4232.809 92.1284"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6518.439 4225.587 92.1284"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6525.504 4218.41 92.41664"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6532.56 4211.241 92.12835"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6539.708 4203.979 92.12753"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6547.972 4195.583 92.12753"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6556.129 4187.296 92.12753"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6563.205 4180.108 92.12753"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6570.324 4172.875 92.12753"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6577.411 4165.676 92.12753"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6588.328 4161.875 92.12753"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6597.696 4156.081 92.12753"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6606.619 4149.052 92.12753"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6616.832 4144.732 92.12753"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6627.842 4146.066 92.12753"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6638.242 4147.638 92.12753"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6648.147 4149.134 92.16474"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6658.182 4150.651 93.01999"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6668.019 4152.137 94.593"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6678.118 4153.609 95.65723"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6688.129 4154.135 95.69727"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6698.283 4154.071 94.01212"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6708.265 4153.592 92.31211"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6718.474 4152.998 92.02827"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6728.514 4152.058 91.92635"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6738.51 4150.744 92.06844"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6748.41 4149.264 89.21044"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6757.479 4144.945 87.98624"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6768.266 4147.197 87.05127"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6777.347 4151.613 88.39808"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6788.027 4153.944 89.28629"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6798.037 4153.385 90.09705"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6808.108 4152.823 90.1601"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6818.364 4152.25 90.21005"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6828.385 4151.69 91.82957"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6838.41 4151.13 92.19331"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6848.497 4150.566 92.12812"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6858.522 4150.006 92.12812"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6868.608 4149.443 92.11888"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6878.453 4144.065 91.86922"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6887.526 4137.086 91.83498"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6886.481 4126.069 91.83571"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6884.583 4116.037 91.8363"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6890.862 4106.229 92.04962"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6897.5 4096.496 92.12621"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6904.084 4086.838 92.12621"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6909.491 4078.201 92.12621"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6912.681 4068.665 92.12621"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6915.861 4059.157 92.12621"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6919.094 4049.489 91.84441"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6925.715 4040.547 91.83569"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6934.858 4034.297 91.83488"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6944.159 4030.597 91.83549"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6953.546 4026.863 91.83736"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6963.004 4023.101 92.11512"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6970.554 4015.456 92.12662"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6980.013 4011.694 92.12662"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6989.314 4007.994 92.12662"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6998.758 4004.237 92.12671"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7008.492 4001.931 92.143"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7019.06 3998.371 92.12867"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7030.27 3996.595 92.12867"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7040.658 3994.95 92.12867"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7051.929 3993.164 92.12867"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7063.763 3991.289 92.19478"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7075.566 3989.419 92.55542"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7085.453 3987.853 92.95301"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7096.769 3986.06 93.40772"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7107.051 3984.431 93.7922"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7118.353 3982.641 94.03934"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7128.619 3981.014 94.46996"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7139.89 3979.229 95.37424"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7150.188 3977.597 96.59404"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7161.911 3975.74 98.4388"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7171.737 3974.184 100.235"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7181.532 3972.632 102.0783"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7191.875 3970.993 103.9604"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7201.792 3969.422 105.6982"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7213.346 3967.592 107.6351"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7223.37 3966.004 109.3261"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7233.333 3964.425 110.9721"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7243.265 3962.852 112.5999"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7253.258 3961.269 114.2261"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7263.129 3959.705 115.5205"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7273.214 3958.107 115.713"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7283.183 3957.229 114.8578"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7293.276 3956.88 115.9812"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7303.357 3956.531 118.916"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7313.422 3956.182 123.0139"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7323.488 3955.834 127.3758"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7333.584 3955.485 131.2427"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7343.65 3955.136 134.4035"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7353.854 3954.783 137.0502"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7363.768 3953.742 138.0277"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7373.61 3951.387 137.505"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7383.42 3949.04 135.2516"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7393.11 3946.381 132.2099"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7402.596 3943.038 128.8914"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7412.296 3940.326 125.168"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7422.055 3937.598 122.0585"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7431.799 3934.875 119.9145"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7441.425 3932.184 118.8812"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7451.14 3929.469 118.6343"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7460.839 3926.757 118.7968"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7470.509 3924.054 119.309"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7480.194 3921.347 119.8821"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7489.865 3918.644 120.5118"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7501.344 3915.435 121.3183"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7511 3912.736 120.4339"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7515.283 3921.744 122.6107"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7524.261 3927.266 124.5326"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7535.641 3924.876 124.2878"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7545.639 3923.322 123.8432"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7555.5 3918.249 121.6084"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7560.744 3909.86 118.8541"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7562.312 3899.788 117.1535"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7563.824 3889.831 116.9307"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7561.571 3880.095 117.9586"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7549.941 3879.709 118.3479"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7540.235 3882.292 118.5636"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7531.048 3886.305 118.534"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7523.198 3892.76 118.4187"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7514.458 3900.503 118.7961"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7507.544 3907.705 120.3804"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7503.56 3918.71 121.6109"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7501.422 3928.576 123.607"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7499.31 3938.4 124.9557"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7496.165 3948.033 124.0133"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7493.057 3957.548 121.59"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7489.611 3967.044 119.7658"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7485.613 3977.583 120.5292"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7486.521 3987.692 122.8986"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7485.638 3997.623 127.5315"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7478.441 4005.143 129.0143"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7468.656 4007.656 127.3569"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7458.784 4009.996 126.2974"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7448.915 4011.922 125.412"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7437.198 4012.198 125.3297"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7427.16 4011.369 126.7405"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7417.2 4010.546 129.1378"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7407.101 4009.712 131.2204"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7397.125 4008.887 130.8672"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7387.118 4008.061 129.3134"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7377.096 4007.232 128.3782"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7367.089 4006.406 128.3522"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7357.113 4005.582 128.6134"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7346.708 4004.722 128.4811"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7335.289 4003.778 127.3457"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7325.313 4002.954 124.8229"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7314.922 4002.096 121.7606"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7304.993 4001.275 118.5068"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7295.047 4000.453 115.0785"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7284.703 3999.599 112.3606"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7272.978 3998.63 110.1402"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7262.94 3997.801 108.492"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7252.918 3996.973 106.5472"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7242.833 3996.822 104.7851"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7232.828 3998.222 102.8587"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7222.915 3999.61 101.0858"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7211.628 4001.189 100.4635"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7201.319 4002.632 99.82443"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7191.451 4004.013 98.6603"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7181.538 4005.4 96.89764"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7171.609 4006.79 95.11448"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7161.589 4008.192 93.67419"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7151.523 4009.601 92.77234"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7141.457 4011.01 92.34015"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7131.406 4012.416 92.19798"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7121.371 4013.821 92.17152"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7111.32 4015.227 92.19926"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7101.3 4016.63 92.15989"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7089.725 4018.25 92.25866"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7079.704 4019.652 92.23659"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7069.654 4021.059 92.13546"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7059.603 4022.465 92.12776"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7049.659 4023.857 92.12776"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7038.022 4025.485 92.12776"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7028.094 4026.875 92.12776"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7018.119 4028.271 92.12776"
+    },
+    {
+      "IsGrind": true,
+      "Position": "7008.053 4029.68 92.12776"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6998.094 4031.073 92.12776"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6987.952 4032.493 92.12776"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6976.331 4034.119 92.10364"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6966.402 4035.509 92.10818"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6956.382 4036.911 91.84988"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6946.332 4038.318 91.90255"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6936.403 4039.707 91.84634"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6926.603 4036.882 91.83483"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6917.16 4030.416 92.10049"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6906.461 4027.608 92.12651"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6897.647 4021.006 92.12651"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6887.658 4019.848 92.12651"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6877.5 4018.67 92.1295"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6866.317 4016.497 92.12968"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6858.533 4010.031 92.12814"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6847.559 4009.389 92.12814"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6837.677 4010.987 92.12814"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6827.619 4012.613 92.16772"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6817.695 4014.217 92.82853"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6807.813 4015.814 94.48449"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6797.779 4017.434 94.77757"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6787.974 4015.701 93.49073"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6778.188 4012.933 92.36816"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6768.925 4008.908 92.17209"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6757.443 4006.483 92.12845"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6747.511 4005.303 92.12845"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6737.452 4005.212 92.12845"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6726.7 4008.791 92.02425"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6717.378 4012.687 91.58078"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6708.015 4016.6 91.51059"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6698.661 4020.51 91.5275"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6689.283 4024.429 91.97461"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6679.905 4028.348 92.1273"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6670.542 4032.262 92.1273"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6661.178 4036.175 92.1273"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6650.393 4040.683 92.1273"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6641.101 4044.566 92.1273"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6631.779 4048.462 92.1273"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6622.43 4052.369 92.1828"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6613.123 4056.259 93.01068"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6603.802 4060.155 93.63315"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6594.467 4064.056 93.12933"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6583.696 4068.558 92.14279"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6574.404 4072.441 92.4291"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6565.111 4076.325 92.12918"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6555.847 4080.197 92.12918"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6544.807 4084.811 92.12918"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6535.514 4088.695 92.12918"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6526.264 4092.561 92.12918"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6515.621 4097.009 92.1285"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6506.357 4100.881 92.1285"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6495.316 4105.495 92.1285"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6486.081 4109.355 92.1285"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6475.055 4113.963 92.35655"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6465.733 4117.859 92.12879"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6454.843 4114.922 92.12879"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6446.09 4110.066 92.12879"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6435.681 4104.29 92.12879"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6426.874 4099.404 92.12879"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6416.68 4093.748 92.12879"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6407.914 4088.884 92.12879"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6399 4083.938 92.12879"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6388.711 4078.229 92.12879"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6378.652 4072.648 92.12879"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6369.536 4067.59 92.28925"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6359.543 4062.046 93.47738"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6350.494 4057.025 93.36032"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6340.543 4051.504 92.78748"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6331.453 4046.461 92.18434"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6321.071 4040.7 92.1284"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6311.025 4035.126 92.1284"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6301.895 4030.061 92.1284"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6293.102 4025.182 92.18689"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6284.228 4020.258 94.25867"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6275.542 4015.439 98.03262"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6266.708 4010.538 102.0125"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6258.238 4005.838 106.1768"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6250.441 4001.512 111.0386"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6241.607 3996.611 113.7278"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6233.008 3991.429 114.3897"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6226.889 3983.546 116.3935"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6221.188 3975.299 118.8962"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6215.366 3966.876 121.6128"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6209.675 3958.642 124.2963"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6203.594 3949.844 126.8792"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6197.78 3941.432 128.6491"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6192.061 3933.158 129.1654"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6186.29 3924.809 129.1492"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6180.559 3916.585 128.7714"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6169.767 3912.237 129.3044"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6160.062 3909.268 129.6913"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6150.446 3906.327 129.9194"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6140.874 3903.399 130.0676"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6131.199 3900.429 130.3271"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6121.238 3894.263 130.9266"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6112.979 3888.576 132.3683"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6104.404 3883.352 135.1083"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6095.528 3878.49 139.2453"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6086.632 3873.746 143.9301"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6077.545 3869.46 148.5332"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6068.49 3864.775 151.9655"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6058.109 3859.404 151.9338"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6048.971 3855.061 150.2009"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6039.923 3850.777 147.5103"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6030.751 3846.435 145.4889"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6021.676 3842.139 145.7196"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6012.516 3837.803 148.1533"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6003.304 3833.442 151.7085"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5992.886 3833.92 154.233"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5984.32 3839.378 154.4734"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5976.854 3846.085 154.4874"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5968.007 3852.582 153.658"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5966.844 3842.99 149.3146"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5967.846 3832.896 145.49"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5971.404 3823.482 143.1227"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5975.156 3814.069 140.8329"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5978.914 3804.642 138.6231"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5982.631 3795.315 136.5433"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5986.355 3785.973 134.603"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5990.067 3776.661 132.8403"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5997.921 3768.452 132.7184"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6006.636 3763.435 133.8586"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6015.391 3758.395 135.0424"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6024.093 3753.385 136.1194"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6032.862 3748.337 137.0105"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6041.597 3743.309 137.6816"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6050.419 3738.23 138.0471"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6042.433 3744.529 138.0503"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6033.169 3751.657 137.8521"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6025.126 3757.846 137.5441"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6016.107 3764.786 137.0574"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6009.163 3772.094 137.2304"
+    },
+    {
+      "IsGrind": true,
+      "Position": "6002.588 3779.744 137.6986"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5996.023 3787.382 138.2466"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5989.509 3794.962 138.8142"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5982.974 3802.565 139.3537"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5976.409 3810.203 139.8015"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5968.58 3819.313 140.1773"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5961.092 3828.025 140.2917"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5954.547 3835.64 140.0792"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5946.748 3844.715 139.5685"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5939.29 3853.393 138.8206"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5932.474 3861.323 137.9962"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5925.96 3868.903 137.1673"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5919.164 3876.81 136.3553"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5911.726 3885.464 135.1305"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5905.282 3892.962 133.2858"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5898.426 3900.939 131.0914"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5891.852 3908.589 129.1467"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5885.347 3916.157 128.3736"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5877.527 3922.521 128.4926"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5872.476 3932.286 128.5853"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5870.307 3942.056 129.5464"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5868.934 3952.093 130.2563"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5867.553 3962.116 131.784"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5859.76 3967.851 134.6151"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5852.292 3976.682 136.1041"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5843.441 3982.715 133.1301"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5837.301 3990.728 132.0984"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5827.553 3995.194 133.0299"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5815.776 3994.287 133.8879"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5804.168 3993.392 132.3357"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5794.081 3992.615 129.9088"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5783.993 3991.837 128.2719"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5773.874 3991.057 128.3694"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5762.297 3990.165 128.6326"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5752.274 3989.392 128.7765"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5742.217 3988.617 129.1796"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5732.113 3987.838 129.3042"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5722.087 3987.065 127.9651"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5712.076 3986.293 126.2517"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5702.065 3985.522 124.139"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5691.888 3985.2 122.1854"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5682.104 3987.315 120.1436"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5670.378 3989.85 119.0035"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5658.935 3992.444 120.1089"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5649.374 3995.246 124.3824"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5639.67 3998.116 129.0276"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5630.16 4000.928 131.5673"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5620.428 4003.805 130.8385"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5608.968 4007.194 130.3331"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5597.952 4010.451 130.2287"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5588.368 4013.285 132.7393"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5578.355 4016.246 133.562"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5566.969 4019.613 133.2852"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5557.286 4022.276 134.0088"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5547.194 4022.729 133.9245"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5537.182 4021.769 130.8016"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5527.271 4020.596 128.7885"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5515.45 4019.198 127.7105"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5504.118 4017.857 126.7989"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5493.794 4016.635 126.3278"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5482.447 4015.293 125.988"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5472.124 4014.072 126.156"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5460.822 4012.734 127.2747"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5450.514 4011.515 127.8636"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5439.136 4010.169 127.9358"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5427.253 4008.763 129.1642"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5417.236 4007.578 130.4041"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5407.204 4006.391 128.9416"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5397.11 4005.196 125.5877"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5387.017 4004.002 125.6793"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5376.984 4002.815 127.4986"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5367.269 4000.967 130.2698"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5357.978 3994.437 131.5265"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5349.068 3989.676 131.1559"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5340.417 3984.376 132.2426"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5332.271 3978.54 133.4348"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5324.828 3971.799 133.6923"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5317.888 3964.316 133.6983"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5311.872 3954.715 132.6504"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5306.597 3946.154 132.8508"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5301.314 3937.579 133.802"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5296.015 3928.978 133.1368"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5290.724 3920.39 132.7417"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5285.174 3911.383 132.1786"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5279.076 3901.483 131.4631"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5273.801 3892.922 131.2483"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5268.518 3884.347 130.2571"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5263.227 3875.759 128.3944"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5257.16 3865.912 126.0645"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5251.885 3857.351 125.8504"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5246.392 3848.435 126.7237"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5241.085 3839.821 125.9353"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5235.519 3830.787 126.2555"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5229.34 3820.757 127.6637"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5224.073 3812.208 127.7988"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5214.451 3805.987 127.8008"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5204.544 3804.258 128.1422"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5194.712 3810.49 129.1945"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5184.671 3815.271 128.1643"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5174.16 3817.881 126.8164"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5162.873 3815.912 127.3103"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5152.511 3814.104 127.2326"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5141.209 3812.132 126.1337"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5131.333 3810.409 125.1328"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5121.457 3808.685 124.8612"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5111.125 3806.883 124.5271"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5101.249 3805.151 125.9002"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5090.981 3800.56 125.0667"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5082.514 3793.885 124.3657"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5073.987 3787.164 124.2435"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5066.054 3780.91 122.894"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5058.168 3774.694 121.0354"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5050.28 3768.476 120.927"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5042.346 3762.222 122.0411"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5034.364 3755.93 123.4105"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5024.284 3751.383 125.3567"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5014.748 3746.188 128.1652"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5009.284 3737.728 131.4763"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5003.869 3729.342 134.161"
+    },
+    {
+      "IsGrind": true,
+      "Position": "4998.977 3720.737 135.6371"
+    },
+    {
+      "IsGrind": true,
+      "Position": "4992.389 3711.826 135.094"
+    },
+    {
+      "IsGrind": true,
+      "Position": "4988.028 3702.56 134.1573"
+    },
+    {
+      "IsGrind": true,
+      "Position": "4983.732 3693.433 132.9746"
+    },
+    {
+      "IsGrind": true,
+      "Position": "4979.595 3684.239 130.6915"
+    },
+    {
+      "IsGrind": true,
+      "Position": "4974.508 3676.082 127.3474"
+    },
+    {
+      "IsGrind": true,
+      "Position": "4971.756 3666.507 123.7744"
+    },
+    {
+      "IsGrind": true,
+      "Position": "4977.102 3656.063 122.6303"
+    },
+    {
+      "IsGrind": true,
+      "Position": "4980.534 3646.465 122.4451"
+    },
+    {
+      "IsGrind": true,
+      "Position": "4983.379 3636.751 124.3932"
+    },
+    {
+      "IsGrind": true,
+      "Position": "4986.173 3627.136 126.9607"
+    },
+    {
+      "IsGrind": true,
+      "Position": "4988.969 3617.508 128.8786"
+    },
+    {
+      "IsGrind": true,
+      "Position": "4992.309 3608.047 129.2735"
+    },
+    {
+      "IsGrind": true,
+      "Position": "4997.806 3599.516 127.8947"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5003.329 3590.947 125.9268"
+    },
+    {
+      "IsGrind": true,
+      "Position": "5008.719 3582.585 122.8942"
+    }
+  ],
+  "Vendors": [],
+  "Blackspots": [],
+  "GatherAdditionalGameObjects": [],
+  "GrindAvoidMobs": [],
+  "GrindSearchMobs": [
+    "50992;Gorok"
+  ],
+  "ProtectedItems": [],
+  "TargetSearchRange": 0
+}

@@ -1,0 +1,92 @@
+{
+  "QuestID": 9155,
+  "Version": 8,
+  "FactionGroup": 1,
+  "CreatedOn": "2015-05-25T08:31:37.8275121Z",
+  "UpdatedOn": "2015-05-29T23:40:50.8170394Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "RecommendedLevel": 14,
+  "Frequency": 1,
+  "QuestStart": {
+    "ObjectName": "Deathstalker Rathiel",
+    "EntryId": 16200,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3433,
+    "Position": "7528.069 -6801.901 83.36671",
+    "TurnInType": 0,
+    "IsIndoors": true,
+    "MyFaction": 0
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "7472.25 -6546.258 9.756014",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 530
+          },
+          "Name": "Gangled Cannibal",
+          "EntryId": 16309
+        },
+        {
+          "Hotspot": {
+            "Position": "7476.689 -6561.642 9.937188",
+            "GroundPosition": "0 0 0",
+            "ContinentId": 530
+          },
+          "Name": "Risen Hungerer",
+          "EntryId": 16301
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "7459.471 -6574.678 9.70718",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    },
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "7427.83 -6588.006 9.558381",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 530
+          },
+          "Name": "Risen Hungerer",
+          "EntryId": 16301
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "7459.471 -6574.678 9.70718",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 2,
+      "RunTime": 5.0
+    }
+  ]
+}

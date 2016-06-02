@@ -1,0 +1,82 @@
+{
+  "QuestID": 9274,
+  "Version": 9,
+  "FactionGroup": 1,
+  "CreatedOn": "2015-05-25T19:11:47.0071375Z",
+  "UpdatedOn": "2015-05-27T07:08:59.0234656Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "RecommendedLevel": 12,
+  "Frequency": 1,
+  "QuestStart": {
+    "ObjectName": "Ranger Krenn'an",
+    "EntryId": 16462,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3433,
+    "Position": "7611.573 -7666.108 153.9977",
+    "TurnInType": 0,
+    "MyFaction": 1
+  },
+  "ActionOrder": 1,
+  "Actions": [
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "7723.298 -7652.751 144.7045",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 530
+          },
+          "Name": "Ravening Apparition",
+          "EntryId": 16327
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "7808.36 -7674.356 147.0675",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    },
+    {
+      "$type": "KillMobsTemplate",
+      "TargetObjects": [
+        {
+          "Hotspot": {
+            "Position": "7718.838 -7627.826 147.4649",
+            "GroundPosition": "0 0 0",
+            "IsGroundPosition": false,
+            "ContinentId": 530
+          },
+          "Name": "Vengeful Apparition",
+          "EntryId": 16328
+        }
+      ],
+      "HotspotsX": [
+        {
+          "Position": "7806.668 -7666.223 147.1978",
+          "GroundPosition": "0 0 0",
+          "TargetSearchRange": 500.0,
+          "IsGroundPosition": false,
+          "ContinentId": 530
+        }
+      ],
+      "Blackspots": [],
+      "ForceLoot": false,
+      "ForcePullMobs": false,
+      "GameObjectiveIndex": 1,
+      "RunTime": 5.0
+    }
+  ]
+}

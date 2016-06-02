@@ -1,0 +1,31 @@
+{
+  "QuestID": 9035,
+  "Version": 1,
+  "FactionGroup": 0,
+  "CreatedOn": "2015-03-13T17:14:26.6800843Z",
+  "UpdatedOn": "2015-05-24T22:36:10.907601Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "QuestStart": {
+    "ObjectName": "Apprentice Ralen",
+    "EntryId": 15941,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3430,
+    "Position": "9188.763 -6712.909 25.91417",
+    "TurnInType": 0,
+    "MyFaction": 0
+  },
+  "QuestEnd": {
+    "ObjectName": "Apprentice Meledor",
+    "EntryId": 15945,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3430,
+    "Position": "9037.787 -6697.619 12.56205",
+    "TurnInType": 0,
+    "MyFaction": 0
+  },
+  "ActionOrder": 1,
+  "Actions": []
+}

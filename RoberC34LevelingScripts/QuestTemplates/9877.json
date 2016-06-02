@@ -1,0 +1,33 @@
+{
+  "QuestID": 9877,
+  "Version": 2,
+  "FactionGroup": 1,
+  "CreatedOn": "2015-05-27T20:58:40.0338794Z",
+  "UpdatedOn": "2015-05-27T20:58:44.3468387Z",
+  "Comment": "",
+  "CreatedBy": null,
+  "RecommendedLevel": 20,
+  "Frequency": 1,
+  "QuestStart": {
+    "ObjectName": "Arcanist Janeda",
+    "EntryId": 16240,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3433,
+    "Position": "7202.86 -7092.563 66.54813",
+    "TurnInType": 0,
+    "MyFaction": 0
+  },
+  "QuestEnd": {
+    "ObjectName": "Apothecary Renzithen",
+    "EntryId": 16198,
+    "AdditionalEntryIds": null,
+    "ContinentId": 530,
+    "ZoneId": 3433,
+    "Position": "7499.646 -6856.245 85.39649",
+    "TurnInType": 0,
+    "MyFaction": 1
+  },
+  "ActionOrder": 1,
+  "Actions": []
+}
